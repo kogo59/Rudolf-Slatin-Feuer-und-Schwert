@@ -18,13 +18,13 @@ html {
 }
 /* Begin CSS */
 /* RESET */
-/* So here's the trick, we must reset to manage a number of problems once and for all: 
-- HTML5 backwards compatibility (EPUB 3 file in EPUB 2 app); 
-- user settings (e.g. line-height on Kobo and Kindle); 
-- CSS bloat (DRY); 
-- KFX for which a reset using `border: 0` seems to disable support; 
+/* So here's the trick, we must reset to manage a number of problems once and for all:
+- HTML5 backwards compatibility (EPUB 3 file in EPUB 2 app);
+- user settings (e.g. line-height on Kobo and Kindle);
+- CSS bloat (DRY);
+- KFX for which a reset using `border: 0` seems to disable support;
 - etc.
-It all started as a normalize and became a reset given the magnitude of the task.                                                          
+It all started as a normalize and became a reset given the magnitude of the task.
 */
 article,
 address,
@@ -554,8 +554,8 @@ hr.transition {
   background: none;
   /* Note: overridden in night mode excepted when using linear-gradient */
 }
-/* Over-engineered asterism with an SVG background 
-which is legacy RMSDK-compliant, reflows with text and 
+/* Over-engineered asterism with an SVG background
+which is legacy RMSDK-compliant, reflows with text and
 is night-mode compatible (black asterisk + white border) */
 hr.asterism {
   width: auto;
@@ -564,7 +564,7 @@ hr.asterism {
   height: 1.5em;
   text-indent: 0;
   text-align: center;
-  background: transparent url("../Images/asterism.svg") no-repeat center;
+  background: transparent url("./media/asterism.svg") no-repeat center;
   /* Change url if you put asterism in a folder */
   background-size: 2.5em 1.25em;
   /* RMSDK doesn't support -> won't scale but SVG viewport is OK for a wide range of font-sizes */
@@ -790,7 +790,7 @@ svg {
   height: 10%;
 }
 @supports (height: 100vh) {
-  /* Can be used for containers and images 
+  /* Can be used for containers and images
      but Should be used in combination with .portrait if used for img */
   .h-100 {
     height: 99vh;
@@ -825,8 +825,8 @@ svg {
   }
 }
 /* Floats */
-/* If there are too many floating elements in a XHTML file, 
-performance of legacy RMSDK takes a huge hit (± 4 seconds to 
+/* If there are too many floating elements in a XHTML file,
+performance of legacy RMSDK takes a huge hit (± 4 seconds to
 render page on eInk devices)                                    */
 .float-left {
   float: left;
@@ -865,12 +865,12 @@ render page on eInk devices)                                    */
 }
 /* May be useful for EPUB 3.1, warning .absolute in ePubCheck in EPUB 3.0.1
 .relative {
-  position: relative;   
+  position: relative;
 }
 
 .absolute {
-  position: absolute;   
-}   
+  position: absolute;
+}
 */
 /* Clearings */
 .clear {

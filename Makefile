@@ -1,7 +1,7 @@
 BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = Feuer_und_Schwert_Rudolf_Slatin
-TITLE_NAME = "Feuer und Schwert im Sudan"
+TITLE_NAME = "Feuer und Schwert im Sudan."
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
 TOC = --toc --toc-depth=3
