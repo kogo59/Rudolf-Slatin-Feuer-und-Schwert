@@ -11,7 +11,7 @@ der Revolution in Bahr el Ghazal. — Gessi's Feldzug. — Trennung Rabeh's
 von seinen Gefährten. — Soliman Ziber’s Tod.<br /><br />
 ::::
 
-**I**m Juli 1878 stand ich als Lieutenant beim Regiment Kronprinz
+Im Juli 1878 stand ich als Lieutenant beim Regiment Kronprinz
 Rudolf (Nr. 19) an der bosnischen Grenze, als ich von Gordon Pascha^[^0010]^
 einen Brief erhielt, worin er mich einlud, nach dem Sudan zu kommen
 und unter ihm in ägyptische Dienste zu treten.
@@ -356,7 +356,7 @@ dessen, wie es ihnen schien, ganz ungerechte Internirung in Kairo
 erbost und wollten auf jede Weise seine Rückkehr erzwingen.
 
 Die Anführer der Ziber'schen Truppen, meist aus dem Stamme
-der Djaliin und frühere Sklavenjäger, waren durch Tapferkeit und
+der Djaliin^[^0066]^ und frühere Sklavenjäger, waren durch Tapferkeit und
 Glück in Bahr el Ghazal^[^0041]^, wo sie sich ganze Provinzen erobert hatten,
 zu Macht und Ansehen gelangt. Unbekannt mit den Machtmitteln
 einer immerhin geregelten Regierung, hielten sie sich für unbezwinglich.
@@ -664,7 +664,7 @@ mit ihm zur gemeinsamen Vertheidigung zu vereinigen. Darin lag ein
 Beweis, daß Soliman wohl wußte, daß die Regierung diese für sie
 besonders werthvollen Provinzen nicht ohne weiteres aufgeben würde.
 
-Die Danagla, die keine Gnade von den Dijaliin zu erwarten
+Die Danagla, die keine Gnade von den Djaliin zu erwarten
 hatten, machten sich zu ihrer Vertheidigung bereit. Genani Abu Amuri
 und Arbab Ziber woled el Fahl, der wohl ein Djalii edeln Blutes
 war, hielten sich aber neutral, weil sie und andere minder bekannte
@@ -1241,6 +1241,99 @@ Waffen erbeuteten, bei diesem Feldzuge gewannen und ihre Macht
 bedeutend zu verstärken in der Lage waren. Dadurch sollten sie uns
 später noch große Schwierigkeiten bereiten.
 
+Beni Halba über Gebel Tadjo direct nach Dara, wohin erst wenige
+Stunden vor seiner Ankunft die Nachricht von seinem Anrücken gelangte.
+
+Sein nächtlicher Ueberfall wurde zwar von der Besatzung Daras
+zurückgeschlagen, immerhin wurden aber mehrere von den Einwohnern
+der Stadt getödtet, darunter Chatr, ein Bruder des Vezirs Achmed
+Schetta, und viele Weiber in die Gefangenschaft geschleppt.
+
+Am Morgen des nächsten Tages zog er nach Manam Aschti, das
+er fast vollständig zerstörte; die Bewohner hatten rechtzeitig die Flucht
+ergriffen. Von hier aus schickte er ein Detachement nach dem Dorfe
+Tauero, das verbrannt wurde; die Weiber, die man auf der Flucht
+einholte, wurden gefangen genommen, und Scheih Meki selbst, der
+Erzähler dieser Begebenheiten, am Schenkel leicht verwundet. Er hatte
+sich im Dickicht verborgen gehalten und verdankte es nur seinem
+besondern Glück, daß er lebend davon gekommen. Harun befinde sich
+jetzt etwa vier Meilen südwestlich von mir. Achmed Chadoin aber
+und Gebr Allah, die Harun, als er Dar Beni Halba passirte, mit
+ihren geringen Streitkräften nicht angreifen konnten, zögen ihm jetzt
+mit ihren Truppen auf Distanz nach, um wenigstens Nachrichten über
+seine Bewegungen nach Dara und Fascher zu senden.
+
+Ich schickte sofort den Befehl an sie, sich noch im Laufe der Nacht
+mit mir zu vereinigen, und veranlaßte Meki, seine Leute als
+Kundschafter auszusenden, um den Lagerplatz Harun's genau festzustellen.
+
+Bei Sonnenaufgang rückten Ahmed Chadoin und Gebr Allah
+Aga mit etwas über 100 Basingern ein; beinahe gleichzeitig erhielt ich
+die Meldung, daß Harun mit seiner Macht bereits aufgebrochen sei
+und den Lagerplatz verlassen habe. Ein Weib vom Stamme Meki el
+Mansur’s, die mit den Leuten gekommen war, erzählte uns, daß Sultan
+Harun, bevor er weiter gezogen, sämmtliche von seinen Leuten
+gefangenen Weiber habe vor sich bringen lassen.
+
+„Ich habe in Erfahrung gebracht“, sagte er zu ihnen, „daß
+Slatin, der Ungläubige, sämmtlichen von seinen Soldaten gefangenen
+Weibern die Freiheit geschenkt hat. Mir als dem rechtgläubigen Sultan
+steht es demnach nicht an, euch als Beute zu behalten und mit mir
+hinwegzuführen. Ich gebe euch daher die Freiheit und halte nur meine
+eigenen Blutsverwandten zurück, deren Familienoberhaupt ich bin.“
+
+Seine Leute hatten nämlich in Dara einige Miram (Prinzessinnen
+aus dem königlichen Geschlechte der For) und auch in Tauero eine
+solche Prinzessin zu Gefangenen gemacht. Letztere war das Weib
+Scheich Meki el Mansur's, der sich, als er von der edlen Regung
+Harun's vernahm, schon großer Freude hingab, um dann wieder auf
+das tiefste herabgestimmt zu werden, als er hörte, daß seine Frau sich
+nicht unter den Freigelassenen befinde.
+
+Während meines Aufenthalts im Gebel Marrah hatte ich infolge
+der strengen Kälte mehrere meiner Leute durch den Tod verloren.
+Diejenigen, welche sich von Merisa und Fleisch nährten, hatten den
+Frost leicht ertragen, während die Milchesser demselben erlagen.
+
+Ich gab den Befehl zum Aufmarsche und nahm den Rapport
+ab. Alle Schwächlichen und Kranken ließ ich zurück und verfügte dann
+noch über 175 Mann reguläre Infanterie und 140 Basinger.
+
+Die Pferde hatten sich, da sie unbeschlagen waren, auf den steinigen
+Gebirgswegen die Hufe wundgegangen, nur der Schimmel hatte sich
+von seiner Wunde erholt und war marschfähig.
+
+Ich gab den Befehl zum Abmarsch. In wenigen Stunden erreichten
+wir das von Harun verlassene Lager. Ich hatte vorher Boten nach
+Dara geschickt mit der Nachricht, daß ich bei Manoaschi stünde, und mit
+der Weisung an die in der Nähe befindlichen Araberstämme der Beni
+Halba und Messeria, mich möglichst rasch mit ihren Pferden einzuholen.
+
+Wir verfolgten die Spur der Abgezogenen, die einen Vorsprung
+von mindestens neun bis zehn Stunden haben mußten. Die breite
+Spur führte nordwestlich, dann beinahe nördlich in der Richtung nach
+Fascher. Sultan Harun hatte nach den mir erstatteten Berichten etwa
+400 Gewehre, einige hundert nur mit Lanze und Schwert bewaffnete Leute
+und ungefähr 60 Reiter; es war unmöglich, daß er mit dieser Macht
+Fascher, welches zweifelsohne schon von seiner Anwesenheit in der Ebene
+erfahren hatte, angreifen wollte. Was mochten also seine Absichten sein?
+
+Als die Nacht anbrach, mußten wir Halt machen. Die Soldaten
+waren erschöpft, und in der mondlosen Nacht konnten wir die kreuz
+und quer führenden undeutlichen Spuren nicht mit Sicherheit
+verfolgen. Noch vor Sonnenaufgang brachen wir wieder auf und
+marschirten unausgesetzt weiter, ohne zu lagern, nur wenige kurze
+Rasten haltend. Ich war tagsüber fast immer zu Fuß gegangen,
+um die Soldaten zum Marschiren anzueifern.
+
+Sie hatten im Gebel Marrah anstrengende Märsche gemacht,
+waren von Kälte und Hunger stark mitgenommen und wären
+begreiflicherweise lieber in ihre Garnison gegangen, wo ich sie, wie sie
+wußten, durch frische Truppen hätte ersetzen können. Doch wir durften
+keine Zeit verlieren, ich hatte ihnen das vor unserm Aufbruche zur
+Verfolgung Sultan Harun's begreiflich gemacht, und sie mußten aushalten.
+
+S. 101
 :::
 
 :::: align-center
@@ -1362,3 +1455,5 @@ später noch große Schwierigkeiten bereiten.
 [^0064]: [*Bagirmi*: vergleiche [Sultanat Baguirmi](https://de.wikipedia.org/wiki/Sultanat_Baguirmi)]{.footnote}
 
 [^0065]: [*Rabeh*: vergleiche [Rabih az-Zubayr](https://de.wikipedia.org/wiki/Rabih_az-Zubayr)]{.footnote}
+
+[^0066]: [*Djaliin*: vergleiche [Ja'Alin](https://en.wikipedia.org/wiki/Ja%27alin_tribe)]{.footnote}

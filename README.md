@@ -9,7 +9,7 @@ Authors:
 
 
 # Licenses
-The author died in 1929, so this work is in the public domain in its country of
+The author died in 1932, so this work is in the public domain in its country of
 origin and other countries and areas where the copyright term is the author's life
 plus 80 years or fewer.
 

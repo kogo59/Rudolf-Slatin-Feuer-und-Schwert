@@ -117,9 +117,9 @@ ergebener Freund
 :::
 
 ::: justified
-+ [Porträt](ch001.xhtml#b000) (Heliogravüre) Titelbild
-+ [Gessi's Truppen im Kampfe gegen die Rebellen](ch002.xhtml#b001)
-+ Ziber Pasha
++ [Porträt.](ch001.xhtml#b000) (Heliogravüre) Titelbild
++ [Gessi's Truppen im Kampfe gegen die Rebellen.](ch002.xhtml#b001)
++ [Ziber Pasha.](ch003.xhtml#b002)
 + Anbetung des Hegligbaums durch einen Bedejat
 + Die Unterwerfung der Bedejat
 + Ein  Ansar oder Glaubensstreiter des Mahdi
