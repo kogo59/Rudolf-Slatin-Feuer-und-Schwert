@@ -120,8 +120,8 @@ ergebener Freund
 + [Porträt.](ch001.xhtml#b000) (Heliogravüre) Titelbild
 + [Gessi's Truppen im Kampfe gegen die Rebellen.](ch002.xhtml#b001)
 + [Ziber Pasha.](ch003.xhtml#b002)
-+ Anbetung des Hegligbaums durch einen Bedejat
-+ Die Unterwerfung der Bedejat
++ [Anbetung des Hegligbaums durch einen Bedejat.](ch004.xhtml#b003)
++ [Die Unterwerfung der Bedejat.](ch004.xhtml#b003)
 + Ein  Ansar oder Glaubensstreiter des Mahdi
 + Ein Risegattkrieger
 + Mein Kampf bei Om Waragat mit Madibbo

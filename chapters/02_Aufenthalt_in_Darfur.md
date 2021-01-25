@@ -2453,4 +2453,4 @@ Abessinien, Febr Tabor.
 
 [^0116]: [*Kassala*: vergleiche [Kassala](https://de.wikipedia.org/wiki/Kassala)]{.footnote}
 
-[^0117]: [*Massaua*: vergleiche [Kassala](https://de.wikipedia.org/wiki/Massaua)]{.footnote}
+[^0117]: [*Massaua*: vergleiche [Massaua](https://de.wikipedia.org/wiki/Massaua)]{.footnote}
