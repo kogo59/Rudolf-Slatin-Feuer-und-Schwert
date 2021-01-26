@@ -2,7 +2,7 @@
 
 ::: justified
 
-:::: fs-xxs
+:::: { .fs-xxs }
 Ankunft in Umuschanger. — Eine Heirathsgeschichte, — Ein sudanesischer Falstaff.
 — Beschreibung von el Fascher. — Aelteste Geschichte des Landes. — Die For
 und Tadjo. — Die Gründung der Tunscher - Dynastie. — Rückblick auf die

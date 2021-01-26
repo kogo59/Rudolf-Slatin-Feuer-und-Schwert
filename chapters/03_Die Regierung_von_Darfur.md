@@ -2,7 +2,7 @@
 
 ::: justified
 
-:::: fs-xxs
+:::: { .fs-xxs  }
 Ueber die Verwaltung von Dara. — Meine Schwierigkeiten mit den Gelaba. —
 Inspection der südlichen Districte. — Ankunft in Schaffka. — Madibbo Bey, Scheich
 der Risegatt. — Mein Besuch in Chartum. — Unterredungen mit dem Generalgouverneur.
@@ -1016,7 +1016,7 @@ französisches Chifferntelegramm, von Marcopolo Bey zur Endstation
 Foga befördert und von dort mit der Post über Fascher nach
 Kabkabia weiter expedirt; es lautete ungefähr:
 
-„Derwisch Mohamed Achmed^[^0142]^ (der Mahdi) von Mudir
+„Derwisch<a id="S107"></a> Mohamed Achmed^[^0142]^ (der Mahdi) von Mudir
 von Faschoda Raschid Bey in der Nähe Gedir ohne Befehl
 angegriffen. Raschid Bey und seine Truppen vollständig
 vernichtet. Aufregung groß. Sogleich nöthige Maßregeln

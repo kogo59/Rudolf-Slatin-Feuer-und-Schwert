@@ -121,8 +121,8 @@ ergebener Freund
 + [Gessi's Truppen im Kampfe gegen die Rebellen.](ch002.xhtml#b001)
 + [Ziber Pasha.](ch003.xhtml#b002)
 + [Anbetung des Hegligbaums durch einen Bedejat.](ch004.xhtml#b003)
-+ [Die Unterwerfung der Bedejat.](ch004.xhtml#b003)
-+ Ein  Ansar oder Glaubensstreiter des Mahdi
++ [Die Unterwerfung der Bedejat.](ch004.xhtml#b004)
++ [Ein  Ansar oder Glaubensstreiter des Mahdi.](ch005.xhtml#b005)
 + Ein Risegattkrieger
 + Mein Kampf bei Om Waragat mit Madibbo
 + Tod des Generals Hicks
