@@ -1459,7 +1459,7 @@ den Bedejat-Scheichs in Fascher ein. Ich ließ diesen zu Ehren sämmtliche
 in Fascher liegenden Truppen ausrücken, ihnen auch ein Feuerwerk
 abbrennen; der Mudir hatte Auftrag, für ihre Bequemlichkeit zu sorgen.
 
-Ich selbst aber ging, nachdem sich Menschen und Pferde von dem
+Ich<a id="S116"></a> selbst aber ging, nachdem sich Menschen und Pferde von dem
 letzten Marsche erholt hatten, mit 200 Reitern in Begleitung Omer
 woled Dorho’s nach Dara; in Fascher ließ ich den Mudir und
 Commandanten Seid Bey Djuma als meinen Stellvertreter zurück.

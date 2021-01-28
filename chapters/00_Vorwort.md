@@ -123,7 +123,7 @@ ergebener Freund
 + [Anbetung des Hegligbaums durch einen Bedejat.](ch004.xhtml#b003)
 + [Die Unterwerfung der Bedejat.](ch004.xhtml#b004)
 + [Ein  Ansar oder Glaubensstreiter des Mahdi.](ch005.xhtml#b005)
-+ Ein Risegattkrieger
++ [Ein Risegattkrieger.](ch006.xhtml#b006)
 + Mein Kampf bei Om Waragat mit Madibbo
 + Tod des Generals Hicks
 + Ueberbringung von Gordon's Haupt

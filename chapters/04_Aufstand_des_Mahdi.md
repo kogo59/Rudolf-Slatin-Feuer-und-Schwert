@@ -16,8 +16,8 @@ Blauen Nil.<br /><br />
 
 Die durch den sogenannten Derwisch, den spätern Mahdi Mohamed
 Achmed ebn (Sohn des) Abdullahi^[^0142]^ hervorgerufenen Unruhen, von denen
-mir das [S. 107](ch004.xhtml#S107) erwähnte Telegramm die erste Kunde gegeben hatte,
-waren sehr ernster Natur. Mohamed Achmed war in Dongola in der
+mir das (s. [S. 107](ch004.xhtml#S107)) erwähnte Telegramm die erste Kunde gegeben
+hatte, waren sehr ernster Natur. Mohamed Achmed war in Dongola in der
 Nähe der Argu-Inseln geboren und gehörte einer armen, beinahe
 unbekannten Familie an, deren Mitglieder behaupteten, von dem Propheten
 abzustammen und Aschrafs (Edle) zu sein, ohne daß ihre Ansprüche auf
