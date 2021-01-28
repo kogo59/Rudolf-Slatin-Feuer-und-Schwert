@@ -396,7 +396,7 @@ Am Nachmittage des folgenden Tages setzten wir bei Durrah el
 Chadra über den Nil, an derselben Stelle, an der ich von Gordon
 Abschied genommen hatte.
 
-Ich ritt einen von Ahmed Bey für mich gekauften Kamelhengst,
+Ich ritt einen von Achmed Bey für mich gekauften Kamelhengst,
 welcher, was man mir zu sagen vergessen hatte, den Fehler besaß,
 sich nicht am Zügel allein, sondern immer nur an dem eingehängten
 Nasenringe (Sumann) mit dem Zügel zusammen führen zu lassen.

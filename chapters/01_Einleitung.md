@@ -1267,7 +1267,7 @@ Ich schickte sofort den Befehl an sie, sich noch im Laufe der Nacht
 mit mir zu vereinigen, und veranlaßte Meki, seine Leute als
 Kundschafter auszusenden, um den Lagerplatz Harun's genau festzustellen.
 
-Bei Sonnenaufgang rückten Ahmed Chadoin und Gebr Allah
+Bei Sonnenaufgang rückten Achmed Chadoin und Gebr Allah
 Aga mit etwas über 100 Basingern ein; beinahe gleichzeitig erhielt ich
 die Meldung, daß Harun mit seiner Macht bereits aufgebrochen sei
 und den Lagerplatz verlassen habe. Ein Weib vom Stamme Meki el

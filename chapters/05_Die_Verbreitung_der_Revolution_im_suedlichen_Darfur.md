@@ -496,7 +496,7 @@ Der Feind verließ darauf unter Zurücklassung von drei Todten rasch
 seine Position.
 
 Die Sonne war untergegangen, es war Abend geworden. Ich
-rief Arifi woled Ahmed, Chamis und deren Begleiter zu mir und
+rief Arifi woled Achmed, Chamis und deren Begleiter zu mir und
 wir besprachen unsere Lage. „Wir können jetzt in der Nacht nicht
 zurückgehen“, sagte ich, „da unsere Kamele mit der Munition bei einem
 Angriffe in der Dunkelheit durch die Gewehrschüsse scheu würden und
@@ -511,7 +511,7 @@ ist euch bekannt, auf euern Pferden könnt ihr ohne Gefahr euer Land
 erreichen und mir dort nützlicher sein als hier eingepfercht in der
 Seriba.“
 
-Die Araberscheihs hatten stillschweigend zugehört. Dann
+Die Araberscheichs hatten stillschweigend zugehört. Dann
 antwortete Scheich Arifi:
 
 „Mein Leben steht in Gottes Hand, und der Mensch entgeht seiner

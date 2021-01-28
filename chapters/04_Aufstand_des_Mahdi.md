@@ -408,7 +408,7 @@ eingehalten würden, rieth ihm jedoch davon ab, etwas gegen die Regierung
 zu unternehmen, da sie zu stark sei und noch bedeutenden Anhang
 im Lande besitze; an ein einheitliches Vorgehen gegen dieselbe von
 seiten der Bevölkerung sei überdies der Verschiedenheit der Stämme
-halber kaum zu denken. Mohamed Ahmed machte ihm seine
+halber kaum zu denken. Mohamed Achmed machte ihm seine
 Gegenvorstellungen und erreichte wenigstens das von ihm, daß er sich,
 vorläufig sein Geheimniß bewahrend, neutral verhielt, später aber nach
 Ausbruch der Revolution für ihn Partei nahm. Er ging auch nach
@@ -905,7 +905,7 @@ Regierung kannten und beides wohl zu benutzen verstanden.
 
 Viele derselben fanden sich bereit, die Partei des Mahdi zu
 ergreifen. An ihrer Spitze stand Elias Pascha woled Umberir, der
-sich aus Haß gegen Ahmed Bey Dafallah, seinen Rivalen in Rang
+sich aus Haß gegen Achmed Bey Dafallah, seinen Rivalen in Rang
 und Vermögen, dessen Treue und Anhänglichkeit an die Regierung
 bekannt war, zur Partei des Mahdi schlug. Achmed Bey war ein
 intimer Freund des Gouverneurs Mohamed Pascha Seid und hatte

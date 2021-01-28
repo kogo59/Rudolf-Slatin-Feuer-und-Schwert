@@ -313,7 +313,7 @@ das Geheimniß, welches sie ihm anvertrauen würde, niemals zu
 verrathen, sagte sie ihm, daß sein Bruder Achmed sie mit Liebesanträgen
 verfolge.
 
-Obgleich Ali über die Treulosigkeit Ahmed’s, dem er das vollste
+Obgleich Ali über die Treulosigkeit Achmed’s, dem er das vollste
 Vertrauen geschenkt hatte, sich entsetzte und vor Kummer außer sich
 war, konnte er doch nicht so ganz an seines Bruders Schuld glauben,
 wenn auch der Same des Mistrauens gesäet war. Achmed aber, von
@@ -2116,7 +2116,7 @@ Ich schickte sofort den Befehl an sie, sich noch im Laufe der Nacht
 mit mir zu vereinigen, und veranlaßte Meki, seine Leute als
 Kundschafter auszusenden, um den Lagerplatz Harun's genau festzustellen.
 
-Bei Sonnenaufgang rückten Ahmed Chadoin und Gebr Allah
+Bei Sonnenaufgang rückten Achmed Chadoin und Gebr Allah
 Aga mit etwas über 100 Basingern ein; beinahe gleichzeitig erhielt ich
 die Meldung, daß Harun mit seiner Macht bereits aufgebrochen sei
 und den Lagerplatz verlassen habe. Ein Weib vom Stamme Meki el
@@ -2262,7 +2262,7 @@ die rechte Flanke des Feindes unter scharfes Feuer zu nehmen. Der
 Befehl wurde rasch und präcis ausgeführt, der Feind vermochte dem
 äußerst wirksamen Kreuzfeuer nicht standzuhalten und sah sich in
 unerwartet kurzer Zeit genöthigt, sich in südlicher Richtung zurückzuziehen.
-Jetzt erhielten Ahmed Chadoin und Gebr Allah den Befehl, einzugreifen
+Jetzt erhielten Achmed Chadoin und Gebr Allah den Befehl, einzugreifen
 und dem abrückenden Feinde in die Flanke zu fallen. Dies geschah
 und war die Ursache, daß sich der anfangs geordnete Rückzug bald
 in eine regellose Flucht verwandelte. Sultan Harun, dem das Pferd
@@ -2278,7 +2278,7 @@ vier an der Zahl, und zwei Pferde gewonnen. Die vom Feinde auf
 seinen Streifzügen geraubten Weiber hatten sich alle gerettet. Unsere
 Verluste waren verhältnißmäßig stark, wir hatten 14 Todte und
 ungefähr 20 Verwundete. Unter den Todten befand sich ein berittener
-Basingeranführer Ahmed Chadoin's Namens Babiker, der bei der
+Basingeranführer Achmed Chadoin's Namens Babiker, der bei der
 Verfolgung Sultan Harun's diesen persönlich angegriffen hatte und
 dabei von dessen Leuten erschossen worden war. Die Verluste Harun's
 waren weitaus bedeutender als die unsrigen.
