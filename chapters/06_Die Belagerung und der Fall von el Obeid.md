@@ -44,7 +44,7 @@ wiederbekommen. Sie thaten so, und in der Nacht vom 5. auf den 6.&nbsp;September
 verließen sie die Stadt und gingen zum Mahdi über.
 
 Mohamed Pascha hatte dem Rathe Achmed Bey Dafallah's Folge
-geleistet und die Befestigung in Vertheidigungsabschnitte getheilt ,
+geleistet und die Befestigung in Vertheidigungsabschnitte getheilt,
 sodaß er jetzt die Kaufmannsstadt ohne besondere Gefahr für sich selbst
 preisgeben konnte. Als er am Morgen des 6. September diesen Theil
 der Stadt verlassen fand, befahl er den Soldaten, von dem in den

@@ -467,7 +467,7 @@ Sudanesen waren und daher ihren Unwillen erregen mußten.
 Dies war besonders bei allen die Sklavenfrage betreffenden
 Verfügungen der Fall, und wurde uns, wie nicht anders zu erwarten,
 besonders die Proclamation der „allgemeinen Freiheit“ (el Huria) sehr
-übel genommen. Der Sklavenhandel, von der Religion erlaubt , lieferte
+übel genommen. Der Sklavenhandel, von der Religion erlaubt, lieferte
 den Landleuten, sowol den Ackerbau als den Viehzucht Treibenden,
 immer frische und gute Arbeitskräfte. Daß bei den Sklavenjagden
 und während der Transporte nach den Nilländern oft unerhörte
@@ -694,7 +694,7 @@ Er hatte sich, wie bemerkt, gegen Tekele gewandt, um zunächst
 dort längern Aufenthalt zu nehmen. Jedoch Mek Adam Omdaballo,
 der für die Ruhe seines Gebietes fürchtete, ließ ihm durch einen seiner
 Söhne als Gastgeschenk einige Schafe und etwas Getreide überbringen
-und zugleich anrathen , weiter in das Innere des Landes zu ziehen.
+und zugleich anrathen, weiter in das Innere des Landes zu ziehen.
 Nach langem, beschwerlichem Marsche langte Mohamed Achmed in
 Gebel Gedir an, welches neben der eingeborenen Landesbevölkerung
 auch von Kenana-Arabern bewohnt wird, die sich seit längerm dort

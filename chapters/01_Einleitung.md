@@ -1333,7 +1333,6 @@ wußten, durch frische Truppen hätte ersetzen können. Doch wir durften
 keine Zeit verlieren, ich hatte ihnen das vor unserm Aufbruche zur
 Verfolgung Sultan Harun's begreiflich gemacht, und sie mußten aushalten.
 
-S. 101
 :::
 
 :::: align-center

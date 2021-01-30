@@ -987,7 +987,7 @@ nur 100 Mann Infanterie als Unterstützung sende. Die andern 100
 würden, sobald er die Kamele beschafft habe, als Bedeckung der
 Munitionscolonne abgehen.
 
-Es war vorauszusehen, daß unter diesen Verhältnissen die
+Es<a id="S164"></a>  war vorauszusehen, daß unter diesen Verhältnissen die
 Munition wol noch lange Zeit auf sich warten lassen werde; ich wollte
 aber nicht mehr zwecklos in Dara bleiben und so verließ ich die Stadt
 und begab mich nach Haschaba, das ich den Stämmen, die mich

@@ -124,7 +124,7 @@ ergebener Freund
 + [Die Unterwerfung der Bedejat.](ch004.xhtml#b004)
 + [Ein  Ansar oder Glaubensstreiter des Mahdi.](ch005.xhtml#b005)
 + [Ein Risegattkrieger.](ch006.xhtml#b006)
-+ Mein Kampf bei Om Waragat mit Madibbo
++ [Mein Kampf bei Om Waragat mit Madibbo.](ch008.xhtml#b008)
 + Tod des Generals Hicks
 + Ueberbringung von Gordon's Haupt
 + Eingeborener des östlichen Sudan
@@ -142,7 +142,7 @@ ergebener Freund
 ****
 ::::
 
-+ Marschordnung vor dem Kampfe  bei Om Waragat
++ [Marschordnung vor dem Kampfe  bei Om Waragat](ch008.xhtml#b007)
 + Karte: Reich des Mahdi (März 1895), Maßstab 1 : 10&nbsp;000&nbsp;000.
 + Plan: Chartum und Omderman, Maßstab 1 : 65&nbsp;000.
 :::

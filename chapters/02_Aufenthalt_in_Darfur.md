@@ -722,7 +722,7 @@ verwundet floh er nach Ganda, wurde jedoch von Ziber's Leuten
 verfolgt, ergriffen und nach der Seriba zurückgebracht, wo er starb. Ziber
 war sich wohl bewußt, daß sein Vorgehen in dieser Angelegenheit ernste
 Folgen haben konnte, und er that daher alles, um zu beweisen, daß
-Belali ganz allein für diese Vorgänge verantwortlich sei. Indem er
+Belali<a id="S47"></a> ganz allein für diese Vorgänge verantwortlich sei. Indem er
 die Leute Belali’s, namentlich die Würdenträger und einflußreichen
 Persönlichkeiten, reich beschenkte, erreichte er, daß die Sache in einem
 für ihn etwas mildern Lichte nach Chartum berichtet wurde.
@@ -2244,7 +2244,7 @@ Ich selbst nahm 130 Mann reguläre Infanterie. Woled el Abbas
 mit 45 Mann Regulären und 40 Mann Basingern stand zu meiner
 Linken, etwa 1000 Meter entfernt und in gleicher Höhe mit mir,
 während Achmed Chadoin und Gebr Allah Aga mit dem Rest der
-Leute rechts von mir, durch eine Erhöhung gedeckt , vorläufig in
+Leute rechts von mir, durch eine Erhöhung gedeckt, vorläufig in
 Reserve blieben. Zwischen den Hügeln durch ging ich dem Feinde
 entgegen, welcher sich kampfbereit machte, während Woled el Abbas den
 links von mir liegenden Hügel umging und, die befohlene Distanz
