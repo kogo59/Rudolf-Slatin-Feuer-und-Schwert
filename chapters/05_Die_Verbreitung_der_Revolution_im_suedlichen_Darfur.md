@@ -904,8 +904,8 @@ seine zerstreuten Basinger wieder gesammelt und war nach Deen
 zurückgekehrt, wo er neue Strohhütten an Stelle der verbrannten errichten
 ließ. Mohamed Abu Salama jedoch hatte seinen Wohnsitz
 endgültig verlassen und war nach dem Süden gezogen. Er hatte eine
-Zusammenkunft mit Madibbo, mit dem er ein Schutz- und Trutz-
-bündniß schloß, welches sie durch feierliche Eide bekräftigten.
+Zusammenkunft mit Madibbo, mit dem er ein Schutz- und Trutzbündniß
+schloß, welches sie durch feierliche Eide bekräftigten.
 
 Scheich Arifi, den treuen tapfern Araber, hatte ich am Tage
 unserer Ankunft in Dara mit seinen Begleitern nach Kallaka geschickt.

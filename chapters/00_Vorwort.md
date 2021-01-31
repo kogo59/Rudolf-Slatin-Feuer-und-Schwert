@@ -79,7 +79,7 @@ Bedeutung richtig zu beurtheilen.
 
 Seit vielen Jahren mit Land und Leuten vertraut, waren auch
 nach seiner Gefangennahme Slatin's Beziehungen zu dem Mahdi^[^0003]^ und
-mehr noch zum Chalifa Abdullahi^[^0004]^ solche, daß er mit allen einflußreichen
+mehr noch zum Chalifa^[^0005]^ Abdullahi^[^0004]^ solche, daß er mit allen einflußreichen
 Persönlichkeiten dieser Periode in Berührung kommen mußte
 und dem Gange der Ereignisse in ihren intimsten Entstehungsgründen
 folgen konnte.
@@ -125,7 +125,7 @@ ergebener Freund
 + [Ein  Ansar oder Glaubensstreiter des Mahdi.](ch005.xhtml#b005)
 + [Ein Risegattkrieger.](ch006.xhtml#b006)
 + [Mein Kampf bei Om Waragat mit Madibbo.](ch008.xhtml#b008)
-+ Tod des Generals Hicks
++ [Tod des Generals Hicks.](ch009.xhtml#b009)
 + Ueberbringung von Gordon's Haupt
 + Eingeborener des östlichen Sudan
 + Hinrichtung der letzten Batahin-Araber durch die Henker des Califa
@@ -158,6 +158,8 @@ ergebener Freund
 
 [^0002]: [*Kordofan*: vergleiche [Kurdufan](https://de.wikipedia.org/wiki/Kurdufan)]{.footnote}
 
-[^0003]: [*Mahdi*: vergleiche [Kurdufan](https://de.wikipedia.org/wiki/Mahdi)]{.footnote}
+[^0003]: [*Mahdi*: vergleiche [Mahdi](https://de.wikipedia.org/wiki/Mahdi)]{.footnote}
 
 [^0004]: [*Chalifa Abdullahi*: vergleiche [Abdallahi ibn Muhammad](https://de.wikipedia.org/wiki/Abdallahi_ibn_Muhammad)]{.footnote}
+
+[^0005]: [*Chalifa*: vergleiche [Kalif](https://de.wikipedia.org/wiki/Kalif)]{.footnote}
