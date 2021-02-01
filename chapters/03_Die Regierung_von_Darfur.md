@@ -523,13 +523,13 @@ gegeben, ohne ihn nicht abzureisen, und daß ich mein Versprechen
 halten müsse, weshalb ich es ihm anheimstelle, entweder Hassan die
 erbetene Erlaubniß oder mir meine Entlassung zu geben.
 
-Erst nach zwei Tagen ließ er mich wieder rufen und machte mir
+Erst<a id="S96"></a> nach zwei Tagen ließ er mich wieder rufen und machte mir
 wegen des dem Hassan so voreilig gegebenen Versprechens strenge
 Vorwürfe, welche ich als verdient ruhig hinnahm. Obwol ich, wie er
 meinte, etwas halsstarrig sei, halte er mich doch für einen fähigen
 Beamten, weshalb er sich nicht nur entschlossen habe, Hassan die Abreise
-zu gestatten, sondern auch Seiner Hoheit dem Chedive Mohamed
-Tewfik den Vorschlag unterbreitet habe, mich zum Mudir Amum
+zu gestatten, sondern auch Seiner Hoheit dem Chedive^[^0146]^ Mohamed
+Tewfik^[^0145]^ den Vorschlag unterbreitet habe, mich zum Mudir Amum
 (Obergouverneur) von ganz Darfur mit dem Titel eines „Bey“ zu
 ernennen. Erfreut bedankte ich mich für seine freundliche Beurtheilung
 und versicherte ihm, daß ich stets ehrlich bemüht sein werde, das in
@@ -1501,3 +1501,7 @@ Commandanten Seid Bey Djuma als meinen Stellvertreter zurück.
 [^0143]: [*Nabak-Baum*: vergleiche [Syrischer Christusdorn](https://de.wikipedia.org/wiki/Syrischer_Christusdorn)]{.footnote}
 
 [^0144]: [*Heglig Baum*: vergleiche [Wüstendattel](https://de.wikipedia.org/wiki/W%C3%BCstendattel)]{.footnote}
+
+[^0145]: [*Mohamed Tewfik*: vergleiche [Muhammad Tawfiq Pascha](https://de.wikipedia.org/wiki/Tawfiq)]{.footnote}
+
+[^0146]: [*Chedive*: vergleiche [Khedive](https://de.wikipedia.org/wiki/Khedive)]{.footnote}

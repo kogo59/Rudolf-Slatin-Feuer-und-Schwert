@@ -9,7 +9,7 @@ an die Heiligkeit des Mahdi. — Scheich Senussi. — Die Verwaltung des Mahdi.
 Pascha. — Beginn der Expedition. — Colonel Farquhar. — Der Deserteur
 Gustav Kloß. — Die Mahdisten greifen an. — Untergang der Armee. — Vor-
 fälle nach der Schlacht. — Stellen aus O’Donovan's Tagebuch. — Der Einzug
-des Mahdi in el Obeïd,
+des Mahdi in el Obeïd.
 <br /><br />
 ::::
 
