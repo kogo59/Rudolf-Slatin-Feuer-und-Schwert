@@ -126,7 +126,7 @@ ergebener Freund
 + [Ein Risegattkrieger.](ch006.xhtml#b006)
 + [Mein Kampf bei Om Waragat mit Madibbo.](ch008.xhtml#b008)
 + [Tod des Generals Hicks.](ch009.xhtml#b009)
-+ Ueberbringung von Gordon's Haupt
++ [Ueberbringung von Gordon's Haupt.](ch011.xhtml#b010)
 + Eingeborener des östlichen Sudan
 + Hinrichtung der letzten Batahin-Araber durch die Henker des Califa
 + Hungersnoth in Omderan

@@ -22,7 +22,7 @@ PREFACE_EPUB = chapters/preface/preface_epub.md
 PREFACE_HTML_PDF = chapters/preface/preface_html_pdf.md
 ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=block
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
-CALIBRE=""
+CALIBRE="C:/Program Files/Calibre2/"
 
 all: book
 
@@ -42,7 +42,7 @@ docx: $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(METADATA) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/epub
-	pandoc $(ARGS) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to epub+raw_html --resource-path=$(IMAGES_FOLDER) --epub-cover-image=$(COVER_IMAGE) -o $@  $(PREFACE_EPUB) $(CHAPTERS)
+	"C:\Program Files\Pandoc/pandoc" $(ARGS) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to epub+raw_html --resource-path=$(IMAGES_FOLDER) --epub-cover-image=$(COVER_IMAGE) -o $@  $(PREFACE_EPUB) $(CHAPTERS)
 	$(CALIBRE)ebook-polish -i -p -U $@ $@
 	$(CALIBRE)ebook-convert $@ $(BUILD)/epub/$(OUTPUT_FILENAME).azw3 --share-not-sync --disable-font-rescaling
 	echo

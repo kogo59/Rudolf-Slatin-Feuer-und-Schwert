@@ -81,7 +81,7 @@ In Kairo empfing ich aus Suez ein Telegramm Giegler Paschas
 — damals Giegler Bey —, der Kairo einige Tage vorher verlassen
 hatte und als Generalinspector der Sudan-Telegraphen nach Massaua^[^0025]^
 ging, um die Linie Kassala-Chartum^[^0028]^ zu inspiciren. Er lud mich ein,
-die Reise bis Sauakin mit ihm zu machen; seiner freundlichen Aufforderung
+die Reise bis Sauakin^[^0067]^ mit ihm zu machen; seiner freundlichen Aufforderung
 leistete ich gern Folge.
 
 In Sauakin trennten wir uns. Es ging mit einem Dampfer
@@ -793,7 +793,7 @@ waren, momentanen Gewinn aus diesem Handel zu ziehen.
 Die Waffen wurden von den kleinen Kaufleuten, den Gelaba,
 in ihre einzelnen Bestandtheile zerlegt und dann als Contrebande
 unter andern Waaren versteckt nach der Provinz Bahr el Ghazal ge-
-schafft. Es wurden von den Rebellen unverhältnißmäßig hohe Preise
+schafft.<a id="S19"></a> Es wurden von den Rebellen unverhältnißmäßig hohe Preise
 für Munition und Waffen bezahlt. Für ein doppelläufiges
 Percussionsgewehr wurden beispielsweise sechs bis acht Sklaven gegeben, eine kleine
 Schachtel Zündhütchen konnte für ein bis zwei Sklaven an den Mann
@@ -1456,3 +1456,5 @@ Verfolgung Sultan Harun's begreiflich gemacht, und sie mußten aushalten.
 [^0065]: [*Rabeh*: vergleiche [Rabih az-Zubayr](https://de.wikipedia.org/wiki/Rabih_az-Zubayr)]{.footnote}
 
 [^0066]: [*Djaliin*: vergleiche [Ja'Alin](https://en.wikipedia.org/wiki/Ja%27alin_tribe)]{.footnote}
+
+[^0067]: [*Sauakin*: vergleiche [Sawakin](https://de.wikipedia.org/wiki/Sawakin)]{.footnote}
