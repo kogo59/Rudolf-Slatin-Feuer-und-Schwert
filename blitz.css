@@ -91,7 +91,7 @@ h5,
 h6,
 dt,
 pre {
-  text-align: left;
+  text-align: center;
 }
 /* Following EPUB 3 spec by the letter (applies to RS but let’s make sure it is respected because we never know) */
 nav[epub|type~="toc"] ol {

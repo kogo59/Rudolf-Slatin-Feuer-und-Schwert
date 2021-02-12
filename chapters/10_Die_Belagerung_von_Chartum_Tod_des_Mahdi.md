@@ -1,4 +1,4 @@
-# Zehntes Kapitel.&nbsp;<br />**`Die Belagerung von Chartum. — Tod des Mahdi.`**<br /><br /> {#Kapitel_zehn .unnumbered .align-center}
+# Zehntes Kapitel.&nbsp;<br />**`Die Belagerung von Chartum. — Tod des Mahdi.`**<br /><br /> {#Kapitel_zehn .unnumbered }
 
 ::: justified
 
@@ -55,7 +55,7 @@ Negerländer der Aequatorialprovinzen beschränkte. Hier herrschten aber
 jetzt die Stämme der Djaliin an dem Nilufer von Berber bis
 Chartum und im ganzen Gezireh, auf welche die Person Gordon's an sich
 keinen beschwichtigenden Einfluß auszuüben vermochte — im
-Gegentheil, er hatte, wie ([S. 19](ch001.xhtml#S164)) erzählt wurde, durch die
+Gegentheil, er hatte, wie ([S. 19](ch006.xhtml#S164)) erzählt wurde, durch die
 während des Krieges mit Soliman woled el Ziber an die Araber erlassene Ordre,
 die Gelaba aus den südlichen Länderstrecken zu vertreiben, die
 Familien der Stämme am Flusse arg geschädigt. Viele hatten hierbei
@@ -95,10 +95,10 @@ Leistungen und Verdienste. Der Mahdi erkannte die Berechtigung dieses
 Begehrens an und erließ jene bekannte Proclamation, die auch heute
 noch bei jeder Gelegenheit, wo es sich darum handelt,
 außerordentliche Urtheile und überraschende Verfügungen zu rechtfertigen,
-zur Anwendung gelangt. Sie lautete:<br />:<br />
+zur Anwendung gelangt. Sie lautete:<br /><br />
 
 :::: align-center
-`„Proclamation.`<br />
+`„Proclamation.`<br />.<a id="S267"></a>
 „Von Mohamed el Mahdi an alle seine Anhänger.<br />
 „Im Namen Gottes etc. etc.<br />
 ::::
@@ -736,8 +736,8 @@ der Regierung, den Sudan sich selbst zu überlassen, durch eine
 Proclamation bekanntzumachen.
 
 Hussein Pascha hatte Gordon ersucht, dieselbe geheimzuhalten.
-Dieser folgte dem Rathe in Berber, änderte aber in Schandi seinen Ent—
-schluß und las die Proclamation der gesammten Bevölkerung vor. Hatte
+Dieser folgte dem Rathe in Berber, änderte aber in Schandi seinen
+Entschluß und las die Proclamation der gesammten Bevölkerung vor. Hatte
 denn Gordon von den allerorts bekannten Flugschriften des Mahdi
 nach der Eroberung von el Obeid keine Kenntniß erlangt? Diese
 forderten alle Gläubigen zum Kampfe auf; wer sich weigerte, an
@@ -1108,8 +1108,8 @@ Es verging eine geraume Zeit, bis der Mulazem des Chalifa
 meldete, daß sich der Fremde vor der Thüre befinde. Der Chalifa
 gab den Befehl, ihn eintreten zu lassen.
 
-Es war ein schlanker junger Mann von etwa 30 Jahren, mittel—
-groß, das Gesicht von der Sonne stark gebräunt. Er trug einen
+Es war ein schlanker junger Mann von etwa 30 Jahren,
+mittelgroß, das Gesicht von der Sonne stark gebräunt. Er trug einen
 blonden Schnurr- und leichten Backenbart und war mit Giuppe und
 Turban bekleidet. Er begrüßte mit einem „Salam aleikum“ den Chalifa,
 der ihm, ohne sich von seinem Angareb zu erheben, befahl, sich zu setzen.
@@ -2233,7 +2233,7 @@ nicht, aber ich mußte infolge dieser Anschauung viel Hunger leiden.
 
 Ab und zu fanden einige von den Griechen Gelegenheit, mich zu
 besuchen und mich mit den jüngsten Vorkommnissen bekannt zu machen.
-Den armen Lupton Bey^[^194]^ hatte man am Tage unserer Ankunft
+Den armen Lupton Bey^[^0194]^ hatte man am Tage unserer Ankunft
 gleichfalls in Eisen gelegt, da man auch ihn im Verdacht hatte, sich
 mit Gordon Pascha vereinigen zu wollen. Zudem hatte man bei der
 Durchsuchung seiner Sachen eine Schrift des Inhalts gefunden, daß
@@ -2347,7 +2347,7 @@ verstehen kann.“
 „Es sind einzelne Worte hier geschrieben, die ich wol entziffern,
 deren Sinn ich aber nicht ergründen kann, weil jedes eine
 außergewöhnliche Bedeutung hat, die nur der Eingeweihte kennt; dies
-nennt man «Chiffernschrifty» Die frühern Angestellten werden dir die
+nennt man «Chiffernschrift» Die frühern Angestellten werden dir die
 Wahrheit meiner Worte bestätigen, da du mir zu mistrauen scheinst.“
 
 „Man sagte mir, daß die Namen Elias Pascha und Hagi Mohamed

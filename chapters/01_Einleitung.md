@@ -1,4 +1,4 @@
-# Erstes Kapitel.&nbsp;<br />**`Einleitung.`**<br /><br /> {#Kapitel_eins .unnumbered .align-center}
+# Erstes Kapitel.&nbsp;<br />**`Einleitung.`**<br /><br /> {#Kapitel_eins .unnumbered }
 
 ::: justified
 
@@ -45,7 +45,7 @@ in Ladó^[^0020]^ hatte, um Erlaubniß zum Besuche seiner Gebiete und
 erwarteten die Entscheidung. Nach etwa zwei Monaten wurden wir
 eingeladen, nach Ladó zu kommen.
 
-Mittlerweile hatte ich von: meiner Familie in Wien Briefe erhalten,
+Mittlerweile hatte ich von meiner Familie in Wien Briefe erhalten,
 worin sie mich dringend aufforderten, nach Europa zurückzukehren.
 Auch war ich etwas fieberkrank und hatte überdies im nächsten Jahre
 meiner Militärpflicht Genüge zu leisten. So beschloß ich, den Wünschen
@@ -53,7 +53,7 @@ meiner Familie nachzukommen.
 
 Dr. Emin aber nahm die Einladung Gordon's an und ging nach
 dem Süden, wo er von Gordon kurze Zeit nachher zum Bey und
-Gouverneur von Ladó ernannt wurde,
+Gouverneur von Ladó ernannt wurde.
 
 Als Gordon Pascha die Aequatorial-Provinzen verließ, machte
 er Emin zu seinem Nachfolger. In dieser Stellung verblieb Emin bis
@@ -93,7 +93,7 @@ Gouverneurs von Sauakin, desselben, der später als Generalgouverneur
 des Sudan mit General Hicks^[^0026]^ nach Kordofan^[^0027]^ ging und dort den
 Untergang fand, wurde ich bald nach Berber befördert, von wo ich
 mit der auf General Gordon's Befehl für mich bereit gehaltenen
-Nilbarke (Dahabia) nach Chartum fuhr. Hier kam ich. Mitte  Januar
+Nilbarke (Dahabia) nach Chartum fuhr. Hier kam ich Mitte Januar
 1879 an.
 
 Gordon Pascha empfing mich auf das freundlichste und ließ mir
@@ -110,7 +110,7 @@ elegant halte, gegen die blaue Uniform vertauscht hätten.
 Zu Anfang Februar ernannte er mich zum Finanzinspector mit
 dem Auftrage, das Land zu bereisen und die Ursachen zu erforschen,
 warum die Bewohner des Sudan sich bei den äußerst mäßig
-bemessenen Steuern fortgeseßt beschwerten, während andrerseits die
+bemessenen Steuern fortgesetzt beschwerten, während andrerseits die
 Regierung wieder über die zu der Größe und den Erträgnissen des
 Landes in gar keinem Verhältniß stehenden geringen Steuereinnahmen
 Aufklärung zu haben wünsche.
@@ -533,7 +533,7 @@ erhielten. Die heute mit diesem Namen bezeichneten Stämme sind
 meistens eingewanderte Araber, die sich im Laufe der Zeit mit den
 Urbewohnern vermischt hatten. Sie suchen alle ihren Ursprung von
 den freien Araberstämmen abzuleiten und den Verdacht, von Sklaven
-abzustammen, von sich abzuwälzen. Dennoch gilt schon -der Name
+abzustammen, von sich abzuwälzen. Dennoch gilt schon der Name
 Dongolaner bei den Djaliin als erniedrigend.
 
 Es ist nöthig, über die Beziehungen, in welchen diese beiden
@@ -917,7 +917,7 @@ Gessi, der nur von einigen seiner Anführer begleitet war und
 seine Truppen in der Bahr el Ghazal-Provinz zurückgelassen hatte,
 verlangte von dem damals in Dara die Regierungsgeschäfte führenden
 Beamten Zogal Bey (recte Mohamed Bey Chalet) zwei Compagnien
-regulärer Jnfanterie, die ihm auch sofort unter dem Commando
+regulärer Infanterie, die ihm auch sofort unter dem Commando
 des Sacolrasi (Hauptmann) Mansur Effdi Helmi zur Verfügung
 gestellt wurden. Außerdem nahm er Ismain woled Bernu mit sich,
 der von ägyptischer Abstammung, jedoch in Darfur geboren war und
@@ -1097,8 +1097,8 @@ Gefahr vorüber, ihre Heimat am Nilflusse zu erreichen.
 
 Nachdem Gessi das Unterwerfungsschreiben Soliman's erhalten
 hatte, brach er sofort nach Djerra auf. Ismain drängte ihn zu
-schnellem Marsche, indem er ihm Rabeh's Vorschläge mittheilte, be-
-merkend, daß man bei der Unbeständigkeit Soliman's und seiner Leute
+schnellem Marsche, indem er ihm Rabeh's Vorschläge mittheilte,
+bemerkend, daß man bei der Unbeständigkeit Soliman's und seiner Leute
 nicht wissen könne, ob sie nicht in letzter Stunde Rabeh's Vorstellungen
 Gehör schenkten.
 
@@ -1154,7 +1154,7 @@ Regierung verlangen werde.
 
 Auch hatten die Danagla unter Idris woled Dabter die Ursachen
 der Revolution ausschließlich Soliman woled el Ziber in die Schuhe
-geschoben, sich selbst aber nicht nur als treue Anhänger, sondern auh
+geschoben, sich selbst aber nicht nur als treue Anhänger, sondern auch
 als Märtyrer der Regierung hingestellt.
 
 Nicht ohne Grund besorgten sie nun, daß Soliman nach Chartum
@@ -1253,7 +1253,7 @@ Am Morgen des nächsten Tages zog er nach Manam Aschti, das
 er fast vollständig zerstörte; die Bewohner hatten rechtzeitig die Flucht
 ergriffen. Von hier aus schickte er ein Detachement nach dem Dorfe
 Tauero, das verbrannt wurde; die Weiber, die man auf der Flucht
-einholte, wurden gefangen genommen, und Scheih Meki selbst, der
+einholte, wurden gefangen genommen, und Scheich Meki selbst, der
 Erzähler dieser Begebenheiten, am Schenkel leicht verwundet. Er hatte
 sich im Dickicht verborgen gehalten und verdankte es nur seinem
 besondern Glück, daß er lebend davon gekommen. Harun befinde sich

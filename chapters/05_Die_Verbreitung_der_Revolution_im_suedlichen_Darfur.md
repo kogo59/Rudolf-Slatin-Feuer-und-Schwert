@@ -1,4 +1,4 @@
-# Fünftes Kapitel.&nbsp;<br />**`Die Verbreitung der Revolution im südlichen Darfur.`**<br /><br /> {#Kapitel_fuenf .unnumbered .align-center}
+# Fünftes Kapitel.&nbsp;<br />**`Die Verbreitung der Revolution im südlichen Darfur.`**<br /><br /> {#Kapitel_fuenf .unnumbered }
 
 ::: justified
 
@@ -335,8 +335,8 @@ Getränke zu sich nehmen und etwas mehr auf gute Sitten halten,
 verachtet sind.
 
 Mohamed Bey Abu Salama begleitete mich mit seinen
-bewaffneten Basingern und etwa 50 Pferden bis nach Deen, dem Dorfe Ma-
-dibbo’s, welches dieser während der Regenzeit zu beziehen pflegte, das
+bewaffneten Basingern und etwa 50 Pferden bis nach Deen, dem Dorfe
+Madibbo’s, welches dieser während der Regenzeit zu beziehen pflegte, das
 jetzt aber verlassen und nur von einigen Sklaven behütet war, die bei
 unserer Annäherung entflohen.
 
@@ -551,7 +551,7 @@ verloren und verflucht.
 
 Ich zwang mir ein Lachen ab und fragte Scheich Ishaak, meinen
 alten Bekannten, was er selbst von der Sache halte, „Herr“, sagte
-er, „ich habe mit dir Brot und Salz gegessen und betrüge dcih nicht;
+er, „ich habe mit dir Brot und Salz gegessen und betrüge dich nicht;
 das ganze Land ist im Aufstand und alle sagen, daß es der wirkliche
 Mahdi ist; bist du geneigt, dich Madibbo zu ergeben, so hast du bei
 Gott nichts von uns zu fürchten.“ „Niemals“, erwiderte ich kurz,
@@ -954,7 +954,7 @@ die Regierung thätig zu unterstützen. Ich ernannte einen frühern
 Offizier der irregulären Reiterei Abd el Kadr  woled Asi zum
 Sandschak, unterstellte ihm die in Dara befindlichen Reiter mit dem
 Befehle, nach Kräften neue zu werben, sodaß er in einigen Tagen über
-etwaa 150 Pferde gebot. Zugleich schrieb ich an Sultan Abaker el
+etwa 150 Pferde gebot. Zugleich schrieb ich an Sultan Abaker el
 Begaui, an den Großscheich der Birket, an die Messeria und andere
 befreundete Stämme, sich bereit zu halten, um mir nach Schakka zu
 folgen.
@@ -966,7 +966,7 @@ manche gute Eigenschaften besaß, wieder die Freiheit. Er hatte sich in
 frühern Gefechten schon häufig erprobt und sich stets als ein wenn
 auch nicht hervorragender, so doch tüchtiger Kämpfer erwiesen; ich
 übergab ihm darum wieder das Commando über den Rest seiner frühern,
-in Dara zurücgebliebenen Basinger mit dem Befehle, neue zu werben.
+in Dara zurückgebliebenen Basinger mit dem Befehle, neue zu werben.
 
 Die in den Magazinen lagernden Gewehre, größtentheils
 doppelläufige Percussionsgewehre^[^0170]^, ließ ich in Stand sehen und an die

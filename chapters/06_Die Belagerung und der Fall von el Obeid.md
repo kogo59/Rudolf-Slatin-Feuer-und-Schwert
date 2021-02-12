@@ -1,4 +1,4 @@
-# Sechstes Kapitel.&nbsp;<br />**`Die Belagerung und der Fall von el Obeïd.`**<br /><br /> {#Kapitel_sechs .unnumbered .align-center}
+# Sechstes Kapitel.&nbsp;<br />**`Die Belagerung und der Fall von el Obeïd.`**<br /><br /> {#Kapitel_sechs .unnumbered }
 
 ::: justified
 
@@ -68,8 +68,8 @@ ihnen niederstreckten, erstürmten die nach Blut und Beute lechzenden
 Fanatiker über die aufgehäuften Leichen ihrer Vordermänner hinweg
 endlich doch die nicht sehr hohen Verschanzungen und drangen in die
 Stadt. In diesem verzweifelten Momente gab der erste Major
-Nesim Esfdi, ein wegen seiner Kaltblütigkeit berühmter Tscherkessen-
-Offizier, seinen Trompetern den Befehl, das Signal „Hinauffklettern“
+Nesim Esfdi, ein wegen seiner Kaltblütigkeit berühmter
+Tscherkessen-Offizier, seinen Trompetern den Befehl, das Signal „Hinaufklettern“
 zu geben. Dasselbe wurde von allen Trompetern abgenommen,
 und im nächsten Moment hatten die Soldaten die meist ebenerdigen
 Gebäude und das Dach der Kaserne erstiegen und eröffneten von
@@ -126,8 +126,8 @@ Habseligkeiten beraubt und nach el Obeïd geschickt.
 Der Mahdi machte zuerst gütliche Versuche, sie und die Schwestern
 zu bekehren; als seine Absicht an ihrer echt christlichen Standhaftigkeit
 scheiterte, wurden sie am nächsten Tage unter dem fanatischen Geschrei
-und Geheule einer ungeheuern Menschenmenge nach dem Platze ge-
-schleppt, wo der Mahdi in Begleitung seiner Chalifas eine Heerschau
+und Geheule einer ungeheuern Menschenmenge nach dem Platze
+geschleppt, wo der Mahdi in Begleitung seiner Chalifas eine Heerschau
 abhielt. Die Armen, die zum Tode bereit waren, wurden jedoch,
 nachdem man sie lange geängstigt, begnadigt und nach langer Berathung,
 was mit ihnen zu thun sei, einem Syrer Namens Georgi Stambuli, der
@@ -157,8 +157,8 @@ mit ihr der Commandant Surur Effdi, Nur Bey Angerer und Mohamed
 Aga Schapo, die frühern Vertheidiger von Ashaf.
 
 Die ganze Garnison wurde nach Gensara gebracht und die
-Anführer der Soldaten sowie die Stammeshäupter dem Mahdi vor-
-gestellt, welcher ihnen gnädig war und Verzeihung gewährte. Surur
+Anführer der Soldaten sowie die Stammeshäupter dem Mahdi vorgestellt,
+welcher ihnen gnädig war und Verzeihung gewährte. Surur
 Aga, der ein Abessinier, aber ein strenger Mohammedaner war, sich
 mehr mit seinen religiösen als mit seinen militärischen Pflichten
 beschäftigte und von seinen Soldaten den Spitznamen Scheich oder Faki
@@ -328,8 +328,8 @@ die bessern Gebäude, wie die Häuser der Offiziere, Kaufleute u. s. w.
 bewachten. Dann ließ der Mahdi die Gefangenen durch Mohamed woled
 el Ereg wieder nach der Festung und in ihre Häuser zurückbringen.
 
-Man sagte dem Gouverneur, es sei bekannt, daß er große Reich-
-thümer besäße, er möge deren Aufbewahrungsort angeben. Da er
+Man sagte dem Gouverneur, es sei bekannt, daß er große
+Reichthümer besäße, er möge deren Aufbewahrungsort angeben. Da er
 leugnete, ein Vermögen zu haben, führte man ihn wieder vor den Mahdi, auf
 dessen Befragen er hartnäckig erklärte, nichts zu besitzen. Achmed woled
 Soliman hatte inzwischen auf Befehl des Mahdi, der den Gouverneur
@@ -349,7 +349,7 @@ Sündengeld! Hoffst du vielleicht, noch weiter Schätze zu sammeln?“
 Sünden noch Geld, ich kann also nichts herausgeben, thue mit mir,
 was dir beliebt!“
 
-„„Du hältst mich also noch immer für einen gewöhnlichen Menschen?
+„Du hältst mich also noch immer für einen gewöhnlichen Menschen?
 Verblendeter! wisse, daß ich der Mahdi el Monteser bin, den der
 Prophet benachrichtigt hat, daß dein Vermögen in deinem Zimmer
 verborgen ist. Achmed woled Soliman, geh in sein Zimmer, hebe die

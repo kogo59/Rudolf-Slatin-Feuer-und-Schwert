@@ -1,4 +1,4 @@
-# Neuntes Kapitel.&nbsp;<br />**`Der Fall von Darfur.`**<br /><br /> {#Kapitel_neun .unnumbered .align-center}
+# Neuntes Kapitel.&nbsp;<br />**`Der Fall von Darfur.`**<br /><br /> {#Kapitel_neun .unnumbered }
 
 ::: justified
 
@@ -117,8 +117,8 @@ für die wichtige Mittheilung, an deren Wahrheit ich keinen Augenblick
 zweifelte, und ließ ihn auf seinen Wunsch wieder ins Gefängniß zurückführen.
 
 Immer größer wurden die Schwierigkeiten, uns im Lande zu
-halten. Die Treulosigkeit Zogal's an sich machte mich weniger be—
-sorgt als die daraus für mich hervorgehende Thatsache, daß der Sieg
+halten. Die Treulosigkeit Zogal's an sich machte mich weniger
+besorgt als die daraus für mich hervorgehende Thatsache, daß der Sieg
 des von Chartum abgehenden Expeditionsheeres jedenfalls sehr in
 Frage gestellt sein mußte.
 
@@ -624,7 +624,7 @@ innen und außen zu kämpfen hatte und mit welchem Erfolge, wird
 der Leser selbst beurtheilen können. Mit der wenigen Munition, die
 ich noch hatte, konnte ich mich wol noch einige Stunden oder Tage
 halten. Doch hätten auch die Offiziere und Soldaten meinen
-Befehlen Folge geleiste? Sie hatten weder den Wunsch noch das
+Befehlen Folge geleistet? Sie hatten weder den Wunsch noch das
 Herz, länger zu fechten, denn sie wußten es so gut wie ich, daß jede
 Anstrengung vergeblich war. Und warum sollte ich sie zwingen, sich
 selbst sowie ihre Weiber und Kinder für eine Sache hinzuopfern, der
@@ -1210,8 +1210,8 @@ Zustand und bat ihn, ihn mir zur Pflege zu übergeben.
 Ich bat ihn dringend, mir aus Rücksicht auf unsere einstige
 Freundschaft den Armen zu überlassen.
 
-„Gut“, sagte er endlich höhnisch, nachdem ich lange in ihn hinein—
-geredet hatte, „aber nur dann, wenn du einen Fußfall für ihn thust.“
+„Gut“, sagte er endlich höhnisch, nachdem ich lange in ihn
+hineingeredet hatte, „aber nur dann, wenn du einen Fußfall für ihn thust.“
 
 Ein Fußfall gilt im Sudan als die größte Demüthigung.
 Mir stieg das Blut zum Kopfe, und ich glaube, ich würde es nicht

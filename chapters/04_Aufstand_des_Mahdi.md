@@ -1,4 +1,4 @@
-# Viertes Kapitel.&nbsp;<br />**`Aufstand des Mahdi.`**<br /><br /> {#Kapitel_vier .unnumbered .align-center}
+# Viertes Kapitel.&nbsp;<br />**`Aufstand des Mahdi.`**<br /><br /> {#Kapitel_vier .unnumbered}
 
 ::: justified
 
@@ -334,7 +334,7 @@ dich darum erhoben. Doch erlaube mir die Frage, hat sich der Mahdi
 während dieser Zeit nie um dich gekümmert?“
 
 „Nein“, war die Antwort des Chalifa, „der Mahdi wollte mich
-erproben. Erst nach dem Tode Ali's, als ih hilflos in der Hütte
+erproben. Erst nach dem Tode Ali's, als ich hilflos in der Hütte
 lag, benachrichtigte man ihn von meiner Krankheit. Es war abends,
 als plötzlich er selbst in meine Hütte trat; ich war zu schwach, um
 mich zu erheben, er setzte sich neben mich und reichte mir warmen
@@ -483,8 +483,8 @@ Mohamed Achmed kannte und benutzte diese allgemeine
 Misstimmung. Da er aber sehr wohl verstand, daß nur ein religiöser Factor
 diese verschiedenen, untereinander in steter Fehde lebenden
 Stammeselemente vereinigen könne, zögerte er nicht, die religiöse Idee in den
-Vordergrund zu rücken, und gab sich einfach für den Mahdi el Mon-
-teser aus. War er einmal als das religiöse Oberhaupt anerkannt, so
+Vordergrund zu rücken, und gab sich einfach für den Mahdi el
+Monteser aus. War er einmal als das religiöse Oberhaupt anerkannt, so
 hoffte er dann leicht, mit seinen fanatisirten Glaubensgenossen die ihm
 verhaßten Fremdlinge, Türken, Aegypter und Europäer, aus dem Lande
 jagen zu können.
@@ -638,7 +638,7 @@ von der Regierung später dafür zur Verantwortung gezogen zu werden.
 Nach langen Verhandlungen erst holten sie ihre Boote vom jenseitigen
 Ufer, wo sie dieselben während des Kampfes verborgen hatten.
 
-Erst im leiten Augenblicke entschloß sich der größte Theil des
+Erst im letzten Augenblicke entschloß sich der größte Theil des
 Dedjem-Stammes, von Ali woled Helu bewogen, seine Heimat zu
 verlassen und Mohamed Achmed zu folgen, wodurch dieser bedeutend
 an Stärke gewann,
@@ -816,7 +816,7 @@ meisten seiner Heerführer waren des Sieges vollkommen sicher; denn
 was hatten ein Jusuf el Schellali, Mohamed Bey Soliman, Daha
 Abu Sidr und ihre Genossen von diesen hungernden, von Krankheit
 geschwächten, halb nackten Leuten zu fürchten! Sie, die am Weißen
-Nil bis Dufilé siegreih vorgedrungen, die Bahr el Ghazal -Provinz
+Nil bis Dufilé siegreich vorgedrungen, die Bahr el Ghazal-Provinz
 erobert, das alte Darfur-Reich vernichtet und dessen Könige und
 Großen getödtet hatten! Was konnte ihnen der Fakir mit seinen
 undiciplinirten und schlecht bewaffneten Leuten anhaben? Nur

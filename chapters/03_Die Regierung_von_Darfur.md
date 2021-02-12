@@ -1,4 +1,4 @@
-# Drittes Kapitel.&nbsp;<br />**`Die Regierung von Darfur.`**<br /><br /> {#Kapitel_drei .unnumbered .align-center}
+# Drittes Kapitel.&nbsp;<br />**`Die Regierung von Darfur.`**<br /><br /> {#Kapitel_drei .unnumbered }
 
 ::: justified
 
@@ -85,7 +85,7 @@ Bittschriften zu überschwemmen, daß sie von den Arabern ausgeraubt,
 vertrieben und von Weib und Kind getrennt worden und und nach Chartum
 gekommen seien, um den Schutz der Regierung anzuflehen. Alle diese
 Bittschriften erledigte Abd el Rauf Pascha mit der ständigen Formel,
-daß ih angewiesen werde, nach Recht und Gesetz zu urtheilen, den
+daß ich angewiesen werde, nach Recht und Gesetz zu urtheilen, den
 Bestohlenen ihr Hab und Gut zurückzugeben und ihre gewaltsam von
 ihnen getrennten Weiber mit ihnen zu vereinigen.
 
@@ -97,7 +97,7 @@ Gutes an Elfenbein, Straußenfedern, Gold, Silber u. s. w. zusammenstellen
  und gelangte zu dem Resultate, daß, wenn man die von den
 Araberstämmen thatsächlich gewonnene Beute sowie deren gesammtes
 eigenes Vermögen an Heerden confiscirt und verkauft hätte, der Erlös
-noh lange nicht ausreihend gewesen wäre, um den von den Gelaba
+noch lange nicht ausreichend gewesen wäre, um den von den Gelaba
 gestellten Forderungen auch nur annähernd Genüge zu leisten.
 
 Ich hatte die Scheichs der betheiligten Araberstämme nach Dara
@@ -296,7 +296,7 @@ Frage könne aber nach seiner Meinung nur an Ort und Stelle richtig
 gelöst werden, darum sende er Omer woled Dorho, den Sandschak der
 Scheikieh, als seinen Stellvertreter nach Schakka, damit dieser in seinem
 Namen den Schiedsspruch fälle. Etwa einen Monat nach Abgang
-meines Briefs an den Generalgouverneur erhielt ih die erbetene
+meines Briefs an den Generalgouverneur erhielt ich die erbetene
 Erlaubniß, nach Chartum zu kommen, worauf ich mich reisefertig machte.
 
 Zwei Tage vor meiner Abreise kam Omer woled Dorho in
@@ -660,8 +660,8 @@ Unterschlagung, unsittlichen Lebenswandels, Ehrenbeleidigung u. s. w.
 verwickelt, jeder Kläger und Beklagter zugleich.
 
 Es wäre, wenn nicht überhaupt unmöglich, eine Arbeit für Jahre
-gewesen, sich in diesem Chaos von Lüge und Schlechtigkeit zurecht-
-zufinden. Die Nothwendigkeit zwang mich, einige dieser Processe schlecht
+gewesen, sich in diesem Chaos von Lüge und Schlechtigkeit zurechtzufinden.
+Die Nothwendigkeit zwang mich, einige dieser Processe schlecht
 und recht auszutragen, die große Masse Klagen und Gegenklagen legte
 ich ad acta. Den frühern Mudir von Fascher, der gleichzeitig
 Militärcommandant war und den man ebenfalls in Processe verwickelt und
@@ -679,7 +679,7 @@ daß er seine schlechten Eigenschaften ablege, widrigenfalls ich ihn unter
 sofortiger Entlassung nach Chartum zu schicken drohte; ich wußte, daß
 er, obwol Aegypter, Darfur mehr als seine eigene Heimat liebte.
 
-Major Hassan Riffi, den ih als Gewohnheitstrinker aus Dara
+Major Hassan Riffi, den ich als Gewohnheitstrinker aus Dara
 entlassen hatte, war hier in Fascher mit einem Bataillonscommando
 betraut worden. Als er sich trotz aller Ermahnungen nicht besserte,
 sogar vor mir zweimal betrunken erschien, gab ich ihm abermals seine
@@ -769,7 +769,7 @@ Ali Bey Scherif war, nachdem ich die Geschäfte von ihm
 Inspectionsreise antreten; während ich aber mit den Vorbereitungen zur Abreise
 beschäftigt war, hörte ich, daß zwischen den Mahria-Arabern und den Bedejat
 bei Bir el Melh, dem „Salzbrunnen“, ein Kampf stattgefunden habe,
-und wenige Tage später kam Hassab Allah, der Großscheih der Mahria,
+und wenige Tage später kam Hassab Allah, der Großscheich der Mahria,
 mit allen Oberhäuptern des Stammes zu mir, um Klage zu führen.
 
 Die Mahria-Araber waren, wie alljährlich, auf der großen
@@ -810,7 +810,7 @@ weitem zeitraubender ist, sondern auch wegen des häufigen Wechsels
 der Transportmittel Kosten verursacht, die diese Producte sehr
 vertheuern. Die Regierung gab meinen Vorstellungen auch Folge und
 ließ diese Karavanenstraße wieder eröffnen, machte mich jedoch für eine
-etwaige Benuzung derselben zu Zwecken des Sklavenhandels ausdrücklich
+etwaige Benutzung derselben zu Zwecken des Sklavenhandels ausdrücklich
 verantwortlich. Ich ließ damals sofort nach erhaltener Erlaubniß eine
 Karavane ausrüsten, welche unter der Führung und Garantie von
 Mohamed woled Idris und seiner Verwandten, etwa 800 Kamele
@@ -1069,7 +1069,7 @@ Manchmal entdeckt ein besonders Glücklicher den Brutplatz, wo der
 weibliche Vogel seine Eier im Sande vergraben hält. Sich in nächster
 Nähe auf die beschriebene Weise versteckt haltend, wartet er ruhig, bis
 die Jungen aus den Eiern schlüpfen. Ist der ersehnte Moment
-gekommen, so ist er selbst ihnen dabei behülflich, die Schale zu zerbrechen ;
+gekommen, so ist er selbst ihnen dabei behülflich, die Schale zu zerbrechen;
 in den bereit gehaltenen Käfigen schafft er sie nach den Märkten, wo er
 sie immer gegen gute Bezahlung an den Mann bringt. Versäumt er
 aber den günstigen Moment und schlüpfen die Vögel ohne ihn aus,
@@ -1213,10 +1213,10 @@ geschützt wissen, wol auch deshalb, um nichts an Popularität zu verlieren.
 Wie ich später erfuhr, rühmte er sich vor seinem Volke, daß nur
 durch sein Eintreten die heiligen Bäume verschont geblieben seien.
 Ich selbst hatte am allerwenigsten einen Grund, den Gebräuchen dieser
-Leute entgegenzutreten, da ih nicht zu Bekehrungszwecken reiste und
+Leute entgegenzutreten, da ich nicht zu Bekehrungszwecken reiste und
 die auf dem Wege zu mir befindlichen Bedejat, die sich noch nie einem
 Weißen unterworfen hatten, nicht mistrauisch machen und dadurch
-vielleiht zur Rückkehr veranlassen wollte.
+vielleicht zur Rückkehr veranlassen wollte.
 
 Ich war schon etwas ungeduldig geworden, als eines Tages ein
 Mann Namens Ali woled Abiad, der in Schakka die Stelle eines

@@ -1,4 +1,4 @@
-# Achtes Kapitel.&nbsp;<br />**`Die Expedition Hicks Pascha's.`**<br /><br /> {#Kapitel_acht .unnumbered .align-center}
+# Achtes Kapitel.&nbsp;<br />**`Die Expedition Hicks Pascha's.`**<br /><br /> {#Kapitel_acht .unnumbered }
 
 ::: justified
 
@@ -96,8 +96,8 @@ volle Selbständigkeit zu erringen.
 Der Mahdi, der die Gefahr einer Spaltung wohl erkannte, sandte
 ogleich Abu Anga, Abdullahi woled Nur und Abd er Rahman woled
 Negumi mit einer großen Streitmacht nach Dar Djauama. Der Fakî
-Manna, der auf ein so rasches Vorgehen nicht gefaßt war, wurde über-
-allen, gefangengenommen und hingerichtet, worauf der Mahdi sofort
+Manna, der auf ein so rasches Vorgehen nicht gefaßt war, wurde
+überfallen, gefangengenommen und hingerichtet, worauf der Mahdi sofort
 an dessen Stämme die Aufforderung richtete, ihre Wohnsitze zu
 verlassen und zu ihm auszuwandern. Er predigte wie gewöhnlich
 Entsagung und behauptete, er sei gekommen, um die Welt zu vernichten

@@ -1,4 +1,4 @@
-# Siebentes Kapitel.&nbsp;<br />**`Kampf gegen den Mahdismus in Darfur.`**<br /><br /> {#Kapitel_sieben .unnumbered .align-center}
+# Siebentes Kapitel.&nbsp;<br />**`Kampf gegen den Mahdismus in Darfur.`**<br /><br /> {#Kapitel_sieben .unnumbered }
 
 ::: justified
 
@@ -129,7 +129,7 @@ Auf diese Weise hoffte ich trotz zu gewärtigender Angriffe mit
 geringen Verlusten Schakka erreichen zu können, wo ich die Kanone
 und alle überflüssige Munition, die Marodeure u. s. w. in der
 Verschanzung zurücklassen wollte, um dann, nur mit Gewehr und Tornister
-ausgerüstet, leiht beweglich Streifzüge (Razzias) im Lande zu machen
+ausgerüstet, leicht beweglich Streifzüge (Razzias) im Lande zu machen
 und Madibbo aufzusuchen, während sich die Lanzenträger inzwischen
 mit den zahlreichen Kuhheerden der Risegatt beschäftigen mochten.
 
@@ -399,7 +399,7 @@ werden und werden den Feind jedesmal zurücktreiben; unsere
 Soldaten gewinnen so wieder das Zutrauen zu sich selbst, das sie nach
 der heutigen Niederlage verloren haben. Die Risegatt aber kenne ich
 gut genug, sie werden nicht hier sitzen bleiben wollen, um uns zu
-bewachen, und mit Madibbo’s Basingern und mit Scheih Jango, der
+bewachen, und mit Madibbo’s Basingern und mit Scheich Jango, der
 aus Bahr el Ghazal hierher geflohen ist werden wir noch fertig
 werden. Unsere verwundeten Brüder jedoch gewinnen so Zeit sich zu
 erholen; sobald die Schwerverlezten den Weg aller Sterblichen
@@ -445,7 +445,7 @@ daß die Nachricht von meiner Niederlage nach Dara gelangen würde,
 noch bevor ich dahin Mittheilung gemacht, daß unsere Lage von den
 bei dem heutigen Kampfe Entflohenen womöglich noch ungünstiger
 dargestellt würde, als sie ohnehin war, und daß infolgedessen die
-Garnison - und die Bevölkerung vorzeitig in Angst und Schrecken
+Garnison und die Bevölkerung vorzeitig in Angst und Schrecken
 gesetzt würde. Ich weckte daher meinen Schreiber und befahl ihm,
 zwei kurze Briefe, einen an Zogal Bey und den andern an den
 Commandanten der Garnison, Sacolrasi Mohamed Farag, zu schreiben
@@ -735,12 +735,12 @@ dazugekommen wäre und ihn aus den Händen der Leute befreit hätte.
 
 Ich ließ die Schafe, über 200, in die Mitte des Carrés treiben
 und gab Ordre, sie unter die hungrige Mannschaft zu vertheilen. Je
-fünf Mann erhielten ein Thier, den Rest behielt ih für mich und die
+fünf Mann erhielten ein Thier, den Rest behielt ich für mich und die
 Offiziere. Das war in der That eine unerwartete Gabe Gottes!
 
 Dann führte man mir den Risegatt-Araber vor, dem mein Junge
 die Hände auf den Rücken gebunden hatte. Ich versprach, ihm sein
-Leben zu schenken und ihn reihli<h belohnt zu den Seinen zurückkehren
+Leben zu schenken und ihn reichlich belohnt zu den Seinen zurückkehren
 zu lassen, wenn er uns als Wegweiser zu einer großen „Fula“
 (Regenteich) führen würde; wolle oder könne er das nicht, so würde
 Gegen Abend wurde mir gemeldet, daß ein Araber ein weißes
@@ -935,7 +935,7 @@ anzunehmen, und versprach zu kommen, sobald es ihm seine Gesundheit
 erlaube. Ich nahm die Thiere an und vertheilte sie unter meine Leute.
 
 Mittlerweile wurde mir die Ankunft Omer woled Dorho’s in
-Fascher gemeldet, und zugleich erhielt ih die traurige Nachricht von
+Fascher gemeldet, und zugleich erhielt ich die traurige Nachricht von
 dem Hinscheiden Gottfried Rott's, der sich trotz der sorgsamsten Pflege
 nicht mehr hatte erholen können. Er wurde in Fascher neben den
 seinerzeit verstorbenen Dr. Pfund^[^0196]^ und Friedrich Rosset^[^0195]^ begraben.
@@ -1173,7 +1173,7 @@ Ende der Türkenherrschaft gekommen sei. Sie beabsichtigten, sich mit
 Sultan Abdullahi Dud Benga, dem Nachfolger Sultan Harun's, zu
 vereinigen. Da der Stamm der For bei dem Bataillon in Dara am
 stärksten vertreten war, so war die Sache ernst aufzufassen. Ich berief
-den Commandanten Hauptmann Mohamed Effdi Farag sogleih zu mir,
+den Commandanten Hauptmann Mohamed Effdi Farag sogleich zu mir,
 der über meine Mittheilung ganz entsetzt versicherte, von diesen
 Vorgängen keine Ahnung zu haben. Ich gebot ihm strengstes Stillschweigen
 und untersagte jede Vorkehrung, welche Verdacht erwecken konnte.
@@ -1202,7 +1202,7 @@ und zwei stellvertretende Unteroffiziere, alle vom Stamme der For.
 Sie leugneten zunächst und versicherten mir ihre Unschuld; ich aber sagte:
 
 „Seit langem weiß ich von euern Zusammenkünften im Hause
-eurer Landsmännin Chadiga; umsonst ließ ih euch Zeit zur Umkehr.
+eurer Landsmännin Chadiga; umsonst ließ ich euch Zeit zur Umkehr.
 Gestern Nacht waret ihr wieder bei ihr, und beim Merissagelage habt
 ihr den übernächsten Tag zum Losschlagen bestimmt. Ihr wolltet
 mit euern Spießgesellen von der 3., 4. und 5. Compagnie nachts das
@@ -1788,7 +1788,7 @@ Diese und die Hälfte der Pferde wurden vertheilt, die andere Hälfte
 zur Verstärkung meiner bescheidenen Reitertruppe verwendet. Am
 nächsten Morgen gingen Kundschafter nach dem Dorfe Roro ab, wo
 Scheich Tahir el Tigani seine Niederlassung hatte. Als sie mir die
-Nachricht überbrachten, daß er sich dort befinde, brach ih noch in der
+Nachricht überbrachten, daß er sich dort befinde, brach ich noch in der
 Nacht auf, um ihn in seinem Neste zu überraschen, fand es bei meiner
 Ankunft aber schon leer. Er hatte wahrscheinlich von meinem
 Anschlage Wind bekommen. Das leicht transportable Hausgeräth nahmen

@@ -1,4 +1,4 @@
-# Zweites Kapitel.&nbsp;<br />**`Aufenthalt in Darfur. — Geschichte der Provinz.`**<br /><br /> {#Kapitel_zwei .unnumbered .align-center}
+# Zweites Kapitel.&nbsp;<br />**`Aufenthalt in Darfur. — Geschichte der Provinz.`**<br /><br /> {#Kapitel_zwei .unnumbered }
 
 ::: justified
 
@@ -7,7 +7,7 @@ Ankunft in Umuschanger. — Eine Heirathsgeschichte, — Ein sudanesischer Falst
 — Beschreibung von el Fascher. — Aelteste Geschichte des Landes. — Die For
 und Tadjo. — Die Gründung der Tunscher - Dynastie. — Rückblick auf die
 Dynastien von Darfur. — Eroberung Darfurs durch Ziber Pascha. — Der
-Risegatt-Stamm. — Differenzen zwischen Ziber Pasha und dem Generalgouverneur. —
+Risegatt-Stamm. — Differenzen zwischen Ziber Pascha und dem Generalgouverneur. —
 Gordon Pascha Generalgouverneur des Sudan. — Amtsantritt in Dara. —
 Beschreibung von Dara. — Zogal Bey Untergouverneur. — Expedition nach Bir
 Gaui. — Zusammenkunft mit Dr. Felkin und Revd. Wilson. — Der Knabe Kapsun.
@@ -48,7 +48,7 @@ Erscheinung als von dem ihres Vermögens gefesselt.
 Daheim seit langem mit einer jungen, wenn auch wenig
 bemittelten Cousine verlobt, hatte er durch die neue Ehe den Unwillen
 seiner Verwandten erregt, und diese waren gerade zur Zeit meiner
-Ankunft nah Umuschanger gekommen, um den Abtrünnigen zu
+Ankunft nach Umuschanger gekommen, um den Abtrünnigen zu
 reclamiren. Sie brachten ihn, einen hübschen, schlanken Jungen, zu mir,
 und nicht ohne Mühe gelang es meinen eindringlichen Vorstellungen,
 die Ausflüchte des jungen, wie es schien, habsüchtigen Mannes zu
@@ -87,8 +87,8 @@ Berti-Stämme^[^0075]^ und treuer Diener der Regierung von Gordon Pascha den
 Titel eines Bey erhalten hatte. Er war ein mittelgroßer, breitschulteriger,
 sehr dicker Mann mit rundem, immer lachendem Gesichte — der echte
 sudanesische Falstaff^[^0112]^! Er wurde später unter der Regierung des
-Chalifa Abdullahi nach Omderman^[^0091]^ berufen und als Mulazem (Leib-
-wächter) neben mir eingereiht und vertrieb uns durch seine Lustigkeit
+Chalifa Abdullahi nach Omderman^[^0091]^ berufen und als Mulazem
+(Leibwächter) neben mir eingereiht und vertrieb uns durch seine Lustigkeit
 manche trübe Stunde. Sein Bruder Ismain war sein gerades
 Gegentheil: ungemein lang, mager und ernst. Sie hatten nur eines gemein,
 sie konnten nie genug des einheimischen sudanesischen Bieres bekommen.
@@ -150,7 +150,7 @@ drei Flaschen Cognak mit der Weisung, beim Genuß desselben mäßig
 zu sein. Er war so gut mit mir“, schloß Hassan Bey gerührt seine
 Geschichte, „Gott gebe, daß ich ihn wiedersehe.“
 
-Während Hassan sprach, lag Jsmain gemüthlich auf den Ellenbogen
+Während Hassan sprach, lag Ismain gemüthlich auf den Ellenbogen
 lümmelnd und leerte von Zeit zu Zeit die immer frisch mit
 Assalia gefüllte Kürbisschale. Endlich erhob er sich, und in
 wehmüthige Erinnerung versunken, sich den Mund mit den Händen
@@ -178,7 +178,7 @@ versicherte, dies sei bereits wiederholt geschehen, der Teppich könne
 nur von einem meiner Leute entwendet worden sein. Ich gab einem
 meiner Kawassen sofort den Befehl, mein eigenes Kamel, einen
 ausgezeichneten Renner, zu besteigen, die Karavane einzuholen und zu
-durchsuchen. Der ziemlich große Teppich konnte nicht leiht verborgen
+durchsuchen. Der ziemlich große Teppich konnte nicht leicht verborgen
 werden. Ich befahl ihm, den Dieb und den Teppich hinter sich auf
 das Kamel zu binden und sogleich hierher zurückzubringen.
 
@@ -890,8 +890,8 @@ noch über einen Rest seines frühern ungeheuern Heeres verfügte.
 
 Ziber, durch seine Spione von allen Vorgängen in dem Lager
 des Sultans wohl unterrichtet, folgte ihm nach Manoaschi mit seiner
-ganzen Macht und stand, als der Morgen graute, in voller Schlacht-
-ordnung vor dieser Stadt. Seine Ankunft war das Zeichen zu einer
+ganzen Macht und stand, als der Morgen graute, in voller
+Schlachtordnung vor dieser Stadt. Seine Ankunft war das Zeichen zu einer
 allgemeinen Flucht.
 
 Ibrahim erkannte, daß alles verloren war, und beschloß, eines
@@ -1060,7 +1060,7 @@ Ereignisse Gordon freilich nicht voraussehen konnte, unter dieser übel
 angebrachten Sparsamkeit schwer zu leiden haben.
 
 Regierungsgeschäfte zwangen Gordon Pascha zur Rückkehr nach
-Chartum. Er ließ Hassan Pasha Helmi als Gouverneur zurück,
+Chartum. Er ließ Hassan Pascha Helmi als Gouverneur zurück,
 welcher wieder vier Monate vor meiner Ankunft von Messedaglia Bey,
 der einige Monate Gouverneur von Dara gewesen war, abgelöst wurde.
 Sultan Harun hatte sich mittlerweile etwas erholt und errichtete eine
@@ -1174,7 +1174,7 @@ vertheilte er unter seine Soldaten; für sich behielt er nichts. Nur bei
 Frauen und Mädchen war sein Herz zu weich und er erlaubte nicht,
 daß man sie, wie es bei uns Kriegsgebrauch, vertheile, sondern ließ
 sie durch eigens von ihm bestimmte Leute kleiden und beköstigen und
-befahl, sie nach Beendigung des Krieges unbehelligt nah Hause gehen
+befahl, sie nach Beendigung des Krieges unbehelligt nach Hause gehen
 zu lassen. Ohne sein Wissen“, gestand der Erzähler mir lachend,
 „hatten wir wol einige beiseite gebracht, doch hätte er es erfahren,
 so wäre es uns schlecht ergangen.“
@@ -1276,7 +1276,7 @@ auserwählte Gesellschaft zurückbehaltend.
 
 Wir ließen uns nieder und beschäftigten uns eifrigst mit dem
 Zerreißen des gebratenen Schafes; Messer und Gabeln gab es
-natürlinh nicht. Wir saßen noch nicht lange, als wir hörten, wie draußen
+natürlich nicht. Wir saßen noch nicht lange, als wir hörten, wie draußen
 die Diener mit zwei Einlaß fordernden Männern zankten, welche
 vorgaben, daß sie uns wichtige Mittheilungen zu machen hätten.
 
@@ -1416,7 +1416,7 @@ waren Wälle aufgeworfen, damit die Soldaten darüber hinweg schießen
 konnten; außen war die Hecke von einem etwa drei Meter tiefen und
 ebenso breiten Graben umschlossen.
 
-Die Besazung, die aus 120 mit Gewehren bewaffneten
+Die Besatzung, die aus 120 mit Gewehren bewaffneten
 irregulären Soldaten bestand, war mit den Offizieren außerhalb aufgestellt,
 um mir die Ehrenbezeigung zu leisten.
 
@@ -1461,7 +1461,7 @@ Beine hat, kann sich leicht retten, doch ich mit meinem Stumpf kann
 nicht laufen, und so habe ich denn gelernt, mein Pferd rasch mit einem
 Bein zu besteigen.“
 
-Ich fragte nah den letzten Nachrichten über Sultan Harun.
+Ich fragte nach den letzten Nachrichten über Sultan Harun.
 Gebr Allah Aga, erwiderte Achmed Chadoin, habe Spione ausgesandt,
 die heute Nachmittag zurückgekehrt seien und erzählten, daß Harun
 seine Mannschaften gesammelt habe, doch noch nicht vom Gebirge
@@ -1495,8 +1495,8 @@ heftigen Kopfschmerzen leide.
 „Dem ist leicht abzuhelfen“, sagte er freudig, „ich habe hier einen
 meiner Leute, der versteht, Kopfschmerzen sogleich zu vertreiben; er ist
 besser und versteht mehr als der Doctor in Dara“ (in Dara gab es
-überhaupt keinen Doctor, sondern nur einen Apotheker, der von gläu-
-bigen Patienten den Titel Doctor erhalten hatte).
+überhaupt keinen Doctor, sondern nur einen Apotheker, der von gläubigen
+Patienten den Titel Doctor erhalten hatte).
 
 „Ganz gut“, sagte ich, „doch mit was will er mich curiren?“
 
@@ -1560,8 +1560,8 @@ Krankenpflege vorstellen, die gewiß mit der Wissenschaft meines Arztes
 von heute Morgen im Einklang stand.
 
 Am nächsten Morgen fühlte ich mich etwas wohler, und als ich
-dies Achmed auf sein Befragen mittheilte, antwortete er sofort: „Na-
-türlich, ich wußte, daß du ganz wohl sein würdest, Isa (so hieß mein
+dies Achmed auf sein Befragen mittheilte, antwortete er sofort:
+„Natürlich, ich wußte, daß du ganz wohl sein würdest, Isa (so hieß mein
 «Doctor») hat noch niemals jemand mit seinen Händen berührt, ohne
 ihm zu helfen.“
 
@@ -1569,7 +1569,7 @@ Ein weiterer Tag verging ohne Nachrichten über Harun. Ich
 ging in Begleitung Achmed Chadoin's und Gebr Allah's auf den
 etwa 100 Schritt von der Seriba entfernten Markt, welcher für die
 Bewohner der umliegenden Dörfer gehalten wird, und wo sie alles,
-was sie brauchen, zu kaufen pflegen, Manchmal sieht man hier
+was sie brauchen, zu kaufen pflegen. Manchmal sieht man hier
 auch die Beni Halba-Araber, die in diesem Theile des Landes ihren
 Wohnsitz haben.
 
@@ -1603,8 +1603,8 @@ sandigen Einsenkung sprudelt sie aus der Tiefe und wird von den
 Bewohnern, welche das Wasser durch Rinnsale ableiten, zu Bädern gegen
 Gelenk- und Blutkrankheiten benutzt.
 
-Nach neuntägiger Abwesenheit erreichte ich Dara wieder. Dr. Zur-
-buchen war abgereist und hatte einen Brief für mich zurückgelassen, in
+Nach neuntägiger Abwesenheit erreichte ich Dara wieder. Dr.
+Zurbuchen war abgereist und hatte einen Brief für mich zurückgelassen, in
 dem er mir alle guten Wünsche für das Gelingen meines Unternehmens
 aussprach. Mein armer arabischer Secretär, Abd el Seid Effendi,
 der mich auf meinen als Finanzinspector unternommenen Reisen und
@@ -1659,8 +1659,8 @@ nomadisirenden Araberstämme durch Erkundigungen in Erfahrung bringen.
 
 Zu dieser Zeit erhielt ich von Gessi Pascha aus Bahr el Ghazal
 einen Brief, worin er mir anzeigte, daß die bei ihm befindlichen
-Missionare Dr. R. Felkin^[^0105]^ und Rev. Wilson von der englisch-protestan-
-tischen Mission in Central-Afrika aus Uganda kommend über Dara
+Missionare Dr. R. Felkin^[^0105]^ und Rev. Wilson von der
+englisch-protestantischen Mission in Central-Afrika aus Uganda kommend über Dara
 nach Chartum zu gehen wünschten; in ihrer Begleitung seien auch
 Abgesandte Mtesa’s^[^0106]^ an Ihre Majestät die Königin von England. Gessi
 ersuchte mich, sie bei ihrer Weiterreise zu unterstützen, und schrieb, daß
@@ -1938,7 +1938,7 @@ durch einen Streifschuß am rechten Hinterschenkel verwundet wurde.
 Ich ließ sämmtliche Offiziere zum Rapport antreten, und nun klärte
 sich der Sachverhalt in folgender Weise auf.
 
-Die von Fascher abgegangenen Truppen unter Gasmi Esfdi als
+Die von Fascher abgegangenen Truppen unter Gasmi Effdi als
 Commandanten, dem noch ein Eingeborener Mohamed Bey Chalil
 beigegeben war, hatten gestern erfahren, daß Sultan Harun sich in Niurnja
 befinde. Man war die ganze Nacht marschirt und hatte sich, durch die
@@ -1972,7 +1972,7 @@ in acht Tagen war es wieder vollkommen marschfähig.
 Zehn Tage blieben wir in Niurnja ohne jede Nachricht. Die
 Truppen, welche verabredeterweise von Kolkol abgegangen sein sollten,
 waren nicht angekommen, und die Verbindung mit unsern in Dara und
-Fascher zurücgelassenen Leuten war durch die Bergbewohner, die einzelne
+Fascher zurückgelassenen Leuten war durch die Bergbewohner, die einzelne
 Briefboten nicht passiren ließen, unterbrochen.
 
 Während dieser Zeit machte ich einen Streifzug in die Berge und
@@ -1994,7 +1994,7 @@ Wir lagerten uns etwa eine halbe Stunde weiter am Abhang
 eines Berges. Nach Sonnenuntergang kehrte Scherteia Tahr mit
 einigen seiner Leute, ausgerüstet mit Holz und Stroh, nach den wilden
 Bienenständen zurück, um Honig zu holen. Sie zündeten Feuer an,
-vertrieben durch den Rauch die Bienen und kamen bald, reih mit
+vertrieben durch den Rauch die Bienen und kamen bald, reich mit
 Honig beladen, zu uns zurück.
 
 Auf einer aus Stangen gebildeten Tragbahre brachten sie noch
@@ -2211,7 +2211,7 @@ ein baldiges Zusammentreffen mit Harun gesichert schien.
 
 Wir setzten unsern Marsch sogleich fort. Das Weib diente uns
 gern als Wegweiser, und das ausgeplünderte Dorf rechts liegen
-lassend, fanden wir nah etwa anderthalb Stunden die noch ganz
+lassend, fanden wir nach etwa anderthalb Stunden die noch ganz
 neuen Spuren des Feindes. Meine Soldaten waren wieder frisch
 geworden und marschirten stramm und munter vorwärts; sie freuten
 sich auf den Zusammenstoß, der ihnen die frohe Aussicht gewährte,
@@ -2253,7 +2253,7 @@ genau einhaltend, mit mir vorrückte.
 Auf etwa 1000 Meter herangekommen, hörten wir die ersten
 Kugeln aus Harun's Remingtongewehren pfeifen. Mein erst kürzlich
 verwundetes Pferd wurde unruhig und weigerte sich trotz Peitsche und
-Sporen vorwärts zu gehen; ich mußte absizen und führte nun meine
+Sporen vorwärts zu gehen; ich mußte absitzen und führte nun meine
 Leute zu Fuß unter dem Einzelfeuer des Feindes im Schnellschritte
 bis auf ungefähr 600 Meter heran. Hier ließ ich halten und die
 erste Salve auf den Feind abgeben, zugleich erhielt Woled el Abbas
@@ -2358,7 +2358,7 @@ Abessinien, Febr Tabor.
 | wird nicht erfreut sein, zu erfahren, daß er nicht mehr Herr in
 | seinem Hause ist.
 |                                         Ihr Freund
-|   
+|
 |                                                Gordon.
 
 :::

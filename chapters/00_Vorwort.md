@@ -1,11 +1,11 @@
-## Vorwort {#Vorwort .unnumbered .align-center .break-before}
+## Vorwort {#Vorwort .unnumbered  .break-before}
 
 ::: align-center
 ****
 :::
 
 ::: justified
-**W**eniger einem eigenen Bedürfnisse als dem Drängen meiner
+Weniger einem eigenen Bedürfnisse als dem Drängen meiner
 Freunde Folge leistend, habe ich diese Blätter niedergeschrieben.
 
 Von dienstlichen Obliegenheiten und der Erstattung nothwendiger
@@ -127,7 +127,7 @@ ergebener Freund
 + [Mein Kampf bei Om Waragat mit Madibbo.](ch008.xhtml#b008)
 + [Tod des Generals Hicks.](ch009.xhtml#b009)
 + [Ueberbringung von Gordon's Haupt.](ch011.xhtml#b010)
-+ Eingeborener des östlichen Sudan
++ [Eingeborener des östlichen Sudan.](ch011.xhtml#b011)
 + Hinrichtung der letzten Batahin-Araber durch die Henker des Califa
 + Hungersnoth in Omderan
 + Der Chalifa Abdullahi nach dem Falle von Kassala
