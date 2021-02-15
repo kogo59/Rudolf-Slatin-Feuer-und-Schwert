@@ -24,6 +24,7 @@ ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=b
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
 CALIBRE="C:/Program Files/Calibre2/"
 PANDOC = "C:\Program Files\Pandoc/pandoc"
+
 all: book
 
 book: epub html pdf docx

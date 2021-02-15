@@ -81,7 +81,7 @@ Marschordnung wählen, die einem derartigen Ereignisse gegenüber am
 geeignetsten war.
 
 :::: {.wrap-70 .break-before}
-![Marschordnung vor dem Kampfe bei Om Waragat auf dem Wege nach Schakka.](Feuer_und_Schwert_177.jpg "Feuer_und_Schwert_177.jpg"){#b007}
+![Marschordnung vor dem Kampfe bei Om Waragat auf dem Wege nach Schakka.](Feuer_und_Schwert_177.jpg "Marschordnung vor dem Kampfe bei Om Waragat auf dem Wege nach Schakka."){#b007}
 ::::
 
 400 Mann reguläre Infanterie bildeten als Kern meiner Truppe
@@ -705,7 +705,7 @@ Stimmung meiner Leute hatte sich gebessert, und sie hatten ihr altes
 Selbstvertrauen wiedergewonnen.
 
 :::: {.wrap-70 .break-before}
-![Mein Kampf bei Om Waragat mit Madibbo.](Feuer_und_Schwert_190.jpg "Feuer_und_Schwert_190.jpg"){#b008}
+![Mein Kampf bei Om Waragat mit Madibbo.](Feuer_und_Schwert_190.jpg "Mein Kampf bei Om Waragat mit Madibbo."){#b008}
 ::::
 
 Etwa um 3 Uhr wurde uns ein neuer Angriff von der

@@ -1180,7 +1180,7 @@ ausgenommen. Es steht ihm frei, die Frauen als seine eigenen zu
 betrachten oder ihnen gegen mäßige Abfindung die Freiheit zu schenken.
 
 :::: {.wrap-70 .break-before}
-![Anbetung des Hegligbaums durch einen Bedejat.](Feuer_und_Schwert_111.jpg "Feuer_und_Schwert_111.jpg"){#b003}
+![Anbetung des Hegligbaums durch einen Bedejat.](Feuer_und_Schwert_111.jpg "Anbetung des Hegligbaums durch einen Bedejat."){#b003}
 ::::
 
 Die Zahl der Frauen ist nur durch die Vermögensverhältnisse
@@ -1275,7 +1275,7 @@ Entfernung hinter ihnen aufgestellt; sie waren theils mit rohen
 Baumwollhemden, theils mit Fellen bekleidet.
 
 :::: {.wrap-100 .break-before}
-![Die Unterwerfung der Bedejat.](Feuer_und_Schwert_113.jpg "Feuer_und_Schwert_113.jpg"){#b004}
+![Die Unterwerfung der Bedejat.](Feuer_und_Schwert_113.jpg "Die Unterwerfung der Bedejat."){#b004}
 ::::
 
 Die Verhandlungen wurden durch die Vermittelung des Dolmetsch

@@ -461,7 +461,7 @@ beschloß daher, von Mansur Effdi, der beinahe vernichtet war,
 abzustehen und mich anzugreifen.
 
 :::: {.wrap-60 .break-before}
-![Ein Risegattkrieger.](Feuer_und_Schwert_153.jpg "Feuer_und_Schwert_153.jpg"){#b006}
+![Ein Risegattkrieger.](Feuer_und_Schwert_153.jpg "Ein Risegattkrieger."){#b006}
 ::::
 
 Kurz vor Sonnenuntergang — der Bote an Mansur Effdi war

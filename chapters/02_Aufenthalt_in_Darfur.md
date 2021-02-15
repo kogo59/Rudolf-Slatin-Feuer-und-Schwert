@@ -636,7 +636,7 @@ seidene Gewänder, Gold- und Silberschmuck und selbst Feuerwaffen und
 Munition ins Land.
 
 :::: {.wrap-70 .break-before}
-![Ziber Pascha.](Feuer_und_Schwert_44.jpg "Feuer_und_Schwert_44.jpg"){#b002}
+![Ziber Pascha.](Feuer_und_Schwert_44.jpg "Ziber Pascha."){#b002}
 ::::
 
 Wir kommen jetzt zu dem Zeitabschnitt, in welchem der berühmte

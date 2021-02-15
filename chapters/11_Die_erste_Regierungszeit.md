@@ -225,7 +225,7 @@ Gelder an ihm vielleicht misliebige Personen eine Schranke, und Ibrahim
 Adlan war gezwungen, sparsam zu sein und Ordnung zu halten.
 
 :::: {.wrap-60 .break-before}
-![Eingeborener des östlichen Sudan.](Feuer_und_Schwert_354.jpg "Feuer_und_Schwert_354.jpg"){#b011}
+![Eingeborener des östlichen Sudan.](Feuer_und_Schwert_354.jpg "Eingeborener des östlichen Sudan."){#b011}
 ::::
 
 Zur Zeit des Todes des Mahdi war die Nachricht eingetroffen von

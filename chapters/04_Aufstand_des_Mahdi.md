@@ -767,7 +767,7 @@ Freiwillige, die unter Abdullahi woled Dafallah, dem Bruder Achmed Bey
 Dafallah’s, Abd el Hadi und Sultan Deema standen.
 
 :::: {.wrap-50 .break-before}
-![Ein  Ansar oder Glaubensstreiter des Mahdi.](Feuer_und_Schwert_135.jpg "Feuer_und_Schwert_135.jpg"){#b005}
+![Ein  Ansar oder Glaubensstreiter des Mahdi.](Feuer_und_Schwert_135.jpg "Ein  Ansar oder Glaubensstreiter des Mahdi."){#b005}
 ::::
 
 Der Mahdi selbst schickte Flugschriften nach allen Richtungen

@@ -696,7 +696,7 @@ Seiid Hussein, dem man kein rechtes Vertrauen schenken konnte, zu
 übernehmen.
 
 :::: {.wrap-100 .break-before}
-![Gessi's Truppen im Kampfe gegen die Rebellen.](Feuer_und_Schwert_17.jpg "Feuer_und_Schwert_17.jpg"){#b001}
+![Gessi's Truppen im Kampfe gegen die Rebellen.](Feuer_und_Schwert_17.jpg "Gessi's Truppen im Kampfe gegen die Rebellen."){#b001}
 ::::
 
 Seiid Hussein wurde nach Ankunft Mustapha Bey's unter

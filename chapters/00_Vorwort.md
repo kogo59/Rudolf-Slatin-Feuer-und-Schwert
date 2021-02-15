@@ -128,8 +128,8 @@ ergebener Freund
 + [Tod des Generals Hicks.](ch009.xhtml#b009)
 + [Ueberbringung von Gordon's Haupt.](ch011.xhtml#b010)
 + [Eingeborener des östlichen Sudan.](ch011.xhtml#b011)
-+ Hinrichtung der letzten Batahin-Araber durch die Henker des Califa
-+ Hungersnoth in Omderan
++ [Hinrichtung der letzten Batahin-Araber durch die Henker des Califa.](ch014.xhtml#b012)
++ [Hungersnoth in Omderan.](ch014.xhtml#b012)
 + Der Chalifa Abdullahi nach dem Falle von Kassala
 + Der Chalifa Abdullahi mit seinen Kadis
 + Rückkehr vom Markte in  Omderman

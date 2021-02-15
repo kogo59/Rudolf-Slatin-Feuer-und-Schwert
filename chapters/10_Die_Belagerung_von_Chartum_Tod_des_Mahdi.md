@@ -2559,7 +2559,7 @@ worden und befinde sich in den Händen der Mahdisten. Ich konnte
 diese Hiobspost nicht glauben und trat aus meinem Zelte.
 
 :::: {.wrap-100 .break-before}
-![Ueberbringung von Gordon's Haupt.](Feuer_und_Schwert_321.jpg "Feuer_und_Schwert_321.jpg"){#b010}
+![Ueberbringung von Gordon's Haupt.](Feuer_und_Schwert_321.jpg "Ueberbringung von Gordon's Haupt."){#b010}
 ::::
 
 Eine große Menschenmenge hatte sich vor den Quartieren des

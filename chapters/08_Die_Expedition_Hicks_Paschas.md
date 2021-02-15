@@ -458,7 +458,7 @@ und er ließ die nun wehrlosen „ungläubigen Hunde“, wie er sie nannte,
 abschlachten und freute sich seiner List.
 
 :::: {.wrap-100 .break-before}
-![Tod des Generals Hicks.](Feuer_und_Schwert_228.jpg "Feuer_und_Schwert_228.jpg"){#b009}
+![Tod des Generals Hicks.](Feuer_und_Schwert_228.jpg "Tod des Generals Hicks."){#b009}
 ::::
 
 Ein Aegypter rettete sich durch seine Geistesgegenwart. Von
