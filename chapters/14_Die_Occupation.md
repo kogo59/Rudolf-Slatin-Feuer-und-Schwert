@@ -1,5 +1,4 @@
-# Vierzehntes Kapitel.&nbsp;<br />**`Die Occupation der südlichen Provinzen durch die Mahdisten.
-`**<br /><br /> {#Kapitel_vierzehn .unnumbered }
+# Vierzehntes Kapitel.&nbsp;<br />**`Die Occupation der südlichen Provinzen durch die Mahdisten.`**<br /><br /> {#Kapitel_vierzehn .unnumbered }
 
 ::: justified
 
@@ -47,7 +46,7 @@ Erst nach mehr als einem Jahre, als der Chalifa schon
 beunruhigt war und auf Mittel und Wege sann, sich Nachrichten zu
 verschaffen, kam ein Dampfer mit etwas Elfenbein und einigen Sklaven
 zurück und berichtete über den Verlauf und die Lage der Expedition.
-Die Besatzung von Redjaf hatte sich ergeben, und es waren Offiziere
+Die Besatzung von Redjaf^[^0292]^ hatte sich ergeben, und es waren Offiziere
 derselben nach Dufilé gesandt worden, um Emin Pascha, dessen
 Soldaten ihm bereits den Gehorsam verweigerten, gefangen zu nehmen
 und an Omer Salah auszuliefern. Nach der Abreise der Offiziere
@@ -131,7 +130,7 @@ gemacht, überdies bedeutende Verluste erlitten. Die Verhältnisse in
 Gallabat und Gedaref waren derartig ungünstige, daß der Unterhalt
 und die Ernährung der bereits auf etwa 8000 Mann
 zusammengeschrumpften Armee große Schwierigkeiten darboten. Der
-hiervon benachrichtigte Chalifa befahl Sekt Tamel, 2000 Mann unter Achmed
+hiervon benachrichtigte Chalifa befahl Seki Tamel, 2000 Mann unter Achmed
 woled Ali, einem Vetter des Chalifa, als Besatzung in Gallabat
 zurückzulassen, mit dem Reste von 6000 Mann aber gegen die Schilluk
 und Dinka zu ziehen und Faschoda zu besetzen. Seki Tamel marschirte
@@ -176,7 +175,7 @@ aufgewachsenen Schillukweiber konnten sich an das Leben in der unreinlichen Stad
 wo Hunderttausende von Menschen eng aneinander gedrängt zusammen
 wohnten, nur schwer gewöhnen, und viele von ihnen starben. Infolge der
 großen Masse war der Preis so gedrückt, daß neu angekommene
-Sklavinnen oft für nur 85—520 Thaler Omdermaner Währung abgegeben wurden.
+Sklavinnen oft für nur 8—20 Thaler Omdermaner Währung abgegeben wurden.
 
 Während Achmed woled Ali von Seki in Gallabat zurückgelassen
 wurde, war dessen Bruder Hamed woled Ali zum Emir von Kassala
@@ -323,7 +322,7 @@ Bald entstanden scharfe Meinungsverschiedenheiten unter den
 Commandirenden, die ihren eigentlichen Grund darin hatten, daß jeder
 sich so schnell als möglich bereichern wollte, das arme Land aber den
 Ansprüchen der vielen Herren und ihrer Anhänger nicht nachkommen
-konnte. Museid nund Arabi richteten eine Klage an den Chalifa, worin
+konnte. Museid und Arabi richteten eine Klage an den Chalifa, worin
 sie Junis, der die Regierung des Landes dem Gutdünken seiner
 Sklaven überlassen habe, als den Urheber der fortwährend zunehmenden
 Theuerung hinstellten und auch andere Vorwürfe gegen ihn erhoben.
@@ -427,3 +426,5 @@ dem Chalifa glücklich gelang, seine lange gehegten Pläne zu verwirklichen.
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^0291]: [*Stanley*: vergleiche [Henry Morton Stanley](https://de.wikipedia.org/wiki/Henry_Morton_Stanley#Die_Emin-Pascha-Expedition)]{.footnote}
+
+[^0292]: [*Redjaf*: vergleiche [Rejaf](https://en.wikipedia.org/wiki/Rejaf)]{.footnote}
