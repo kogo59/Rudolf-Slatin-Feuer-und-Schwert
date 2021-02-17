@@ -253,7 +253,7 @@ Darauf wandte er sich zu Seid Djuma, reichte ihm die Hand
 zum Kusse und erkundigte sich nach seinem Befinden. Ich konnte den
 Chalifa jetzt genau betrachten.
 
-Er war von lichtbrauner Farbe, hatte ein hübsches, nicht
+Er<a id="S271"></a> war von lichtbrauner Farbe, hatte ein hübsches, nicht
 unsympathisches Arabergesicht, auf welchem nur einige Pockennarben
 etwas entstellend wirkten, hatte gerade Nase, proportionirten Mund
 und das Antlitz umrahmt von einem leichten dunkeln Backenbart, der

@@ -127,11 +127,11 @@ ergebener Freund
 + [Mein Kampf bei Om Waragat mit Madibbo.](ch008.xhtml#b008)
 + [Tod des Generals Hicks.](ch009.xhtml#b009)
 + [Ueberbringung von Gordon's Haupt.](ch011.xhtml#b010)
-+ [Eingeborener des östlichen Sudan.](ch011.xhtml#b011)
++ [Eingeborener des östlichen Sudan.](ch012.xhtml#b011)
 + [Hinrichtung der letzten Batahin-Araber durch die Henker des Califa.](ch014.xhtml#b012)
 + [Hungersnoth in Omderan.](ch014.xhtml#b013)
-+ [Der Chalifa Abdullahi nach dem Falle von Kassala](ch016.xhtml#b014)
-+ Der Chalifa Abdullahi mit seinen Kadis
++ [Der Chalifa Abdullahi nach dem Falle von Kassala.](ch016.xhtml#b014)
++ [Der Chalifa Abdullahi mit seinen Kadis.](ch017.xhtml#b015)
 + Rückkehr vom Markte in  Omderman
 + Sklavenmarkt in Omderman (Textbild)
 + Die Kubba in Omderman, das Grabmal des Mahdi

@@ -1024,7 +1024,7 @@ Jakub und sämmtliche Kadis wurden in größter Eile zu einer Berathung
 zusammengerufen. Die Ahnung des Chalifa war in Erfüllung gegangen:
 
 :::: {.wrap-100 .break-before}
-![Der Chalifa Abdullahi nach dem Falle von Kassala](Feuer_und_Schwert_465.jpg "Der Chalifa Abdullahi nach dem Falle von Kassala"){#b014}
+![Der Chalifa Abdullahi nach dem Falle von Kassala.](Feuer_und_Schwert_465.jpg "Der Chalifa Abdullahi nach dem Falle von Kassala"){#b014}
 ::::
 
 Kassala war gefallen, die Italiener hatten es nach kurzem Kampfe besetzt.
@@ -1339,8 +1339,8 @@ dir zur Folge haben könnten. Herr! ich flehe zu Gott, daß er mich in
 deiner Gunst erhalte, und fürchte jede Möglichkeit, die mich derselben
 verlustig machen könnte.“
 
-„Ich kenne dich nun über zehn Jahre“, entgegnete mir der Cha—
-lifa auf meine Einwendung, „und ich habe dich nie heißblütig gefunden
+„Ich kenne dich nun über zehn Jahre“, entgegnete mir der
+Chalifa auf meine Einwendung, „und ich habe dich nie heißblütig gefunden
 oder unüberlegt handeln sehen. Ich habe dir auch schon früher Weiber
 gegeben, und nie sind Klagen über deine häuslichen Verhältnisse zu
 meinen Ohren gedrungen; freilich“, meinte er ernst, „erfuhr ich, daß
