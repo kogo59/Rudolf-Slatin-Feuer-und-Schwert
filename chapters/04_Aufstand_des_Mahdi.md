@@ -208,7 +208,7 @@ unbändigsten; sie konnten nur mit größter Mühe dazu gebracht werden, einige
 der nothwendigsten Koranverse zu erlernen. Jakub und Samani waren
 von etwas ruhigerm Temperament und unterstützten ihren Vater in
 seinem Lehrberufe; sie lernten dabei selbst den Koran auswendig und
-beschäftigten sich sogar mit dessen Auslegung.
+beschäftigten sich sogar mit dessen Auslegung.<a id="S122"></a>
 
 Zur Zeit des Beginns der Feindseligkeiten zwischen Ziber und
 Darfur verließ Mohamed el Fakî mit seiner ganzen Familie die Heimat

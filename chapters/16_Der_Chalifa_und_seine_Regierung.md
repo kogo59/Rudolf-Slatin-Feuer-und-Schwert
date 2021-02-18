@@ -19,7 +19,7 @@ umrahmt von einem ursprünglich dunkeln Vollbart, der um das Kinn
 etwas kräftiger entwickelt ist. Früher elastisch, ist er in den letzten
 Jahren bei zunehmender Corpulenz schwerfällig geworden; obwol erst
 49&nbsp;Jahre zählend, ist sein Gesicht vorzeitig gealtert, sein Bart schon
-beinahe weiß. Manchmal von bestechender Freundlichkeit, hat sein Gesicht
+beinahe weiß!. Manchmal von bestechender Freundlichkeit, hat sein Gesicht
 für gewöhnlich einen harten, finstern Ausdruck, der den orientalischen
 Despoten nicht verkennen läßt. Aufbrausend und von heftigem Charakter,
 handelt er trotz seiner Schlauheit oft unüberlegt, und niemand, selbst sein
@@ -865,7 +865,7 @@ beinahe bei allen verloren gegangen.
 Von den 6600 Pferden ist kaum die Hälfte stark genug, auch
 nur eine mäßige Campagne auszuhalten.
 
-Von den 64000 Schwert- und Lanzenstreitern ist mehr als der
+Von den 64&nbsp;000 Schwert- und Lanzenstreitern ist mehr als der
 vierte Theil wegen zu hohen oder zu jugendlichen Alters zu einem
 Feldzuge untauglich.
 

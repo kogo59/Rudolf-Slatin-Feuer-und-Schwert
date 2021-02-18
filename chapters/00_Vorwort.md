@@ -132,9 +132,9 @@ ergebener Freund
 + [Hungersnoth in Omderan.](ch014.xhtml#b013)
 + [Der Chalifa Abdullahi nach dem Falle von Kassala.](ch016.xhtml#b014)
 + [Der Chalifa Abdullahi mit seinen Kadis.](ch017.xhtml#b015)
-+ Rückkehr vom Markte in  Omderman
-+ Sklavenmarkt in Omderman (Textbild)
-+ Die Kubba in Omderman, das Grabmal des Mahdi
++ [Rückkehr vom Markte in  Omderman.](ch018.xhtml#b016)
++ [Sklavenmarkt in Omderman.](ch018.xhtml#b017) (Textbild)
++ [Die Kubba in Omderman, das Grabmal des Mahdi.](ch018.xhtml#b018)
 + Im Versteck
 + Meine Flucht durch die Wüste
 
