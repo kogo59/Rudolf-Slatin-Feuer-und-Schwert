@@ -1085,7 +1085,7 @@ Schon nach kurzer Zeit langten Glückwunschtelegramme ein, das
 erste von Oberst Lewis im eigenen und im Namen der Garnison Wadi
 Halfa, dann von dem in meiner Angelegenheit unermüdlichen
 hochverehrten Chef unserer diplomatischen Agentie, Baron Heidler von
-Egeregg, und meinem aufopfernden Freunde Oberst Wingate Bey. Von
+Egeregg, und meinem aufopfernden Freunde Oberst Wingate Bey^[^0340]^. Von
 dem hier als Reisenden weilenden Baron Victor Herring und dessen
 Sohn erhielt ich die ersten Landsmannsgrüße.
 
