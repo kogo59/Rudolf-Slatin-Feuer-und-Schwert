@@ -135,8 +135,8 @@ ergebener Freund
 + [Rückkehr vom Markte in  Omderman.](ch018.xhtml#b016)
 + [Sklavenmarkt in Omderman.](ch018.xhtml#b017) (Textbild)
 + [Die Kubba in Omderman, das Grabmal des Mahdi.](ch018.xhtml#b018)
-+ Im Versteck
-+ Meine Flucht durch die Wüste
++ [Im Versteck.](ch020.xhtml#b019)
++ [Meine Flucht durch die Wüste.](ch020.xhtml#b020)
 
 :::: align-center
 ****
