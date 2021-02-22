@@ -124,7 +124,7 @@ Adarama                                        467. 492.
 
 Afrika, Auftheilung unter europäische Mächte   578.
 
-Agaliin⸗Araber                                 140. 419.
+Agaliin-Araber                                 140. 419.
 
 Agel woled el Djangaui                         48. 87. 90. 91.
                                                142. 143. 146. 150.
