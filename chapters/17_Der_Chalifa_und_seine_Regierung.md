@@ -1024,7 +1024,7 @@ vier Ecken des Unterbaues sind überdies noch von kleinen, je auf vier
 runden Säulen ruhenden Kuppelthürmchen flankirt. Der Oberbau ist
 aus gebrannten Ziegeln hergestellt.
 
-Das ganze Bauwerk macht inmitten der niedern unansehnlichen
+Das ganze Bauwerk.<a id="S525"></a> macht inmitten der niedern unansehnlichen
 Häuser einen imposanten Eindruck, der nur durch den vielfach
 schadhaften und abgebröckelten Kalkanstrich etwas beeinträchtigt wird. Aus
 drei hohlen übereinanderliegenden Kugeln ragt eine große Messinglanze

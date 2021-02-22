@@ -224,7 +224,7 @@ Familie, zunächst bei irgendeinem religiösen Oberhaupte am Nilflusse
 Zuflucht zu suchen und dann, wie er selbst es vorgehabt, weiter nach
 Mekka zu pilgern, keinesfalls aber in die Heimat zurückzukehren.
 
-Abdullahi<a id="S122"></a> ließ seine Brüder, Jakub an der Spitze, mit der Schwester
+Abdullahi ließ seine Brüder, Jakub an der Spitze, mit der Schwester
 unter dem Schutze des Scheich Asaker in Dar Djimme zurück und ging
 allein nach dem Nil. Auf dem Wege dahin hörte er von dem
 Aufsehen erregenden Zwiste Mohamed Achmed's mit seinem Scheich

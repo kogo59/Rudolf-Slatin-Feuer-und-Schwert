@@ -1168,14 +1168,14 @@ Silber und 3 Kupfer ausprägt. Da die Kaufleute sich weigerten,
 diese minderwerthige Münze anzunehmen, wurden ihre Waaren
 sequestrirt und die Läden geschlossen und ihnen für den Fall des
 Verharrens auf ihrem Standpunkte definitive Vermögensentziehung
-angedroht. So wurden sie zum Nachgeben gezwungen; aber erst
+angedroht. So wurden sie zum.<a id="S19"></a> Nachgeben gezwungen; aber erst
 nachdem sie sich Ibrahim Adlan schriftlich verpflichtet hatten, das neue
 Geld in Curs zu bringen, wurden ihnen die Waaren freigegeben.
 Diese Maßregel hatte selbstverständlich eine Vertheuerung aller
 Handelsartikel zur Folge, da die Kaufleute ihre Preise nach dem effectiven
 Silberwerthe der neuen Thaler festsetzten.
 
-Nach Ibrahim Adlan übernahm Nur el Gerefaui die
+Nach.<a id="S499"></a> Ibrahim Adlan übernahm Nur el Gerefaui die
 Finanzleitung und schlug Thaler zu 7 Drahem, von denen bei der ersten
 Prägung 49, Drahem, bei der zweiten Prägung nur noch 32 Drahem
 Silber waren. Die Wirkung dieser Münzverschlechterung war eine

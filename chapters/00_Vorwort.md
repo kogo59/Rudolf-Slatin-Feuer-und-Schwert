@@ -143,8 +143,8 @@ ergebener Freund
 ::::
 
 + [Marschordnung vor dem Kampfe  bei Om Waragat](ch008.xhtml#b007)
-+ Karte: Reich des Mahdi (März 1895), Maßstab 1 : 10&nbsp;000&nbsp;000.
-+ Plan: Chartum und Omderman, Maßstab 1 : 65&nbsp;000.
++ [Karte: Reich des Mahdi](ch022.xhtml#b100) (März 1895), Maßstab 1 : 10&nbsp;000&nbsp;000.
++ [Plan: Chartum und Omderman](ch022.xhtml#b101), Maßstab 1 : 65&nbsp;000.
 :::
 
 :::: align-center

@@ -997,7 +997,7 @@ wieder ein Landestheil einem seiner Verwandten unterstellt.
 
 [^0273]: [*Dar Fertit*: vergleiche [Dār Fertit](https://en.wikipedia.org/wiki/D%C4%81r_Fertit)]{.footnote}
 
-[^0274]: [Die Beschreibung und Abbildung des Grabmals s. [S. 525](ch004.xhtml#S525).]{.footnote}
+[^0274]: [Die Beschreibung und Abbildung des Grabmals s. [S. 525](ch018.xhtml#S525).]{.footnote}
 
 [^0275]: [*General Stevenson* vergleiche [Frederick Stephenson](https://en.wikipedia.org/wiki/Frederick_Stephenson_(British_Army_officer)).]{.footnote}
 

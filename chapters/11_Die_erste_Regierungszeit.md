@@ -1173,7 +1173,7 @@ Im Bet el Mal waren ganz bedeutende Mengen von erbeuteten
 Schmuckgegenständen aus Edelmetall aufgestapelt worden, die weit
 unter ihrem Werth an Kaufleute abgegeben wurden, die sie insgeheim
 nach Aegypten weiter verhandelten. Um diese Metallausfuhr zu
-verhindern, beschloß man, eigene Münzen zu prägen (s. [S. 499](ch006.xhtml#S499)).
+verhindern, beschloß man, eigene Münzen zu prägen (s. [S. 499](ch017.xhtml#S499)).
 
 Eine neue Einnahme erzielte Ibrahim auch dadurch, daß er den
 Sklavenmarkt ganz in die Nähe des Bet el Mal legte und für
