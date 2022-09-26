@@ -18,12 +18,13 @@ CSS_ARG_KINDLE = --css=$(CSS_FILE_KINDLE)
 CSS_ARG_PRINT = --css=$(CSS_FILE_PRINT)
 METADATA_ARG = --metadata-file=$(METADATA)
 METADATA_PDF = chapters/preface/metadata_pdf_html.md
-PREFACE_EPUB = chapters/preface/preface_epub.md
-PREFACE_HTML_PDF = chapters/preface/preface_html_pdf.md
-ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=block
+PREFACE_EPUB = chapters/preface/preface_epub.md chapters/preface/00_Vorwort_epub.md
+PREFACE_HTML_PDF = chapters/preface/00_Vorwort_html.md
+ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=section
+ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=section --metadata=lang:de
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
-CALIBRE="C:/Program Files/Calibre2/"
-PANDOC = "C:\Program Files\Pandoc/pandoc"
+CALIBRE=""
+PANDOC = "pandoc"
 
 all: book
 
@@ -53,4 +54,10 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(PREFACE_HTML_PDF)
 	mkdir -p $(BUILD)/docx
-	$(PANDOC) $(ARGS) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to docx --resource-path=$(IMAGES_FOLDER) -o $@  $(CHAPTERS)
+	$(PANDOC) $(ARGS_HTML) --from markdown+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans --to docx --resource-path=$(IMAGES_FOLDER) -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
+
+$(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
+	mkdir -p $(BUILD)/html
+	cp  *.css  $(IMAGES_FOLDER)
+	pandoc $(ARGS_HTML)  --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
+	rm  $(IMAGES_FOLDER)/*.css
