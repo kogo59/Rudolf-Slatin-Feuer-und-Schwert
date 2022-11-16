@@ -28,5 +28,3 @@ This work is in the public domain in the United States because it was published
 # Sources
 Feuer und Schwert im Sudan. [archive.org](https://archive.org/details/feuerundschwerti00slatuoft/mode/2up)
 
-# ePUB
-Feuer und Schwert im Sudan. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=337559)
