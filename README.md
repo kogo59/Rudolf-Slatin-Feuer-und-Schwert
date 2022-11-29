@@ -1,5 +1,7 @@
 # Feuer und Schwert im Sudan.
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193357261-972e4e5c-412a-4072-8ce7-e7a1d2b477bf.jpg">
+
 This is a git repository of the source files for the book
 "Feuer und Schwert im Sudan von Rudolf Slatin"
 
@@ -25,6 +27,3 @@ This work is in the public domain in the United States because it was published
 
 # Sources
 Feuer und Schwert im Sudan. [archive.org](https://archive.org/details/feuerundschwerti00slatuoft/mode/2up)
-
-# ePUB
-Feuer und Schwert im Sudan. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=337559)
