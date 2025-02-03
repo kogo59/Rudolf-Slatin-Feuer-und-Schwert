@@ -983,11 +983,6 @@ wieder ein Landestheil einem seiner Verwandten unterstellt.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0270]: [*Dr. Junker*: vergleiche [Wilhelm Junker](https://de.wikipedia.org/wiki/Wilhelm_Junker)]{.footnote}
 

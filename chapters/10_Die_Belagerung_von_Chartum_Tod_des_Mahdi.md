@@ -3803,12 +3803,6 @@ des Reichs folgten getreulich ihren Spuren.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0220]: [*Sinkat*: vergleiche [Schlacht von Sinkat](https://de.wikipedia.org/wiki/Schlacht_von_Sinkat)]{.footnote}
 
 [^0221]: [*Tamanib*: vergleiche [Schlacht von Tamanieh](https://de.wikipedia.org/wiki/Schlacht_von_Tamanieh)]{.footnote}

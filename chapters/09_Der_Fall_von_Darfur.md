@@ -1461,11 +1461,6 @@ Lager aufgeschlagen hatte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0211]: [beschlagnahmen und zwangsverwalten]{.footnote}
 

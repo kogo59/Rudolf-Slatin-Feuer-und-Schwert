@@ -715,12 +715,6 @@ mit einem Blick zum Himmel, daß es mir diesmal glücken möge.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0331]: [Muselmaniun ist ein nach dortigen Begriffen herabwürdigender Name, bedeutet Abkömmlinge der Ungläubigen und wird jedem Renegaten beigelegt.]{.footnote}
 
 [^0332]: [*F. R. Wingate*: vergleiche [Francis Reginald Wingate](https://de.wikipedia.org/wiki/Reginald_Wingate)]{.footnote}

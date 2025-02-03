@@ -1,10 +1,6 @@
 :::: { .fs-xl .align-center }
 <br /><br /><br /><br /><br />
-**Feuer und Schwert im Sudan.**<br /><br />
-::::
-
-:::: { .align-center .break-after }
-****
+**Feuer und Schwert im Sudan.**
 ::::
 
 :::: {.wrap-60 .align-center .break-after}

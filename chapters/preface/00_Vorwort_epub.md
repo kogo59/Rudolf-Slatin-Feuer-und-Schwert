@@ -147,13 +147,6 @@ ergebener Freund
 + [Plan: Chartum und Omderman](ch022.xhtml#b101), Maßstab 1 : 65&nbsp;000.
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*Josef Ohrwalder*: vergleiche [Josef Ohrwalder](https://de.wikipedia.org/wiki/Josef_Ohrwalder)]{.footnote}
 
 [^0002]: [*Kordofan*: vergleiche [Kurdufan](https://de.wikipedia.org/wiki/Kurdufan)]{.footnote}

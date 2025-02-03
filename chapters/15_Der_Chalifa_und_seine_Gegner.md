@@ -1379,11 +1379,6 @@ ich und andere schon seit langem und immer vergeblich arbeiteten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0300]: [Ich hatte zufällig erfahren, daß der Mann Thaib woled Hagi Ali hieß und einmal mit Negumi in Omderman gewesen war.]{.footnote}
 

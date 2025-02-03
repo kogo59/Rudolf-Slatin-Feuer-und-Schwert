@@ -1237,11 +1237,6 @@ schenkte ihm eine neue Giuppe und — eine Frau!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0260]: [vergleiche [Schlacht von Gallabat](https://de.wikipedia.org/wiki/Schlacht_von_Gallabat)]{.footnote}
 

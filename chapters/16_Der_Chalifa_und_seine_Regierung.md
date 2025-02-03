@@ -1249,11 +1249,6 @@ zunehmenden Billigkeit.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0311]: [*Hadendoa*: vergleiche [Hadendoa](https://de.wikipedia.org/wiki/Hadendoa)]{.footnote}
 

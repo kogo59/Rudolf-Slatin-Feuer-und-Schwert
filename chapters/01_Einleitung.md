@@ -1335,12 +1335,6 @@ Verfolgung Sultan Harun's begreiflich gemacht, und sie mußten aushalten.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0010]: [*Gordon Pascha*: vergleiche [Charles George Gordon](https://de.wikipedia.org/wiki/Charles_George_Gordon)]{.footnote}
 
 [^0011]: [*Assuan*: vergleiche [Assuan](https://de.wikipedia.org/wiki/Assuan)]{.footnote}

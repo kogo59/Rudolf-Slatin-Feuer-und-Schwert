@@ -381,12 +381,6 @@ Handeln gekommen wird.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0350]: [*Livingstone*: vergleiche [David Livingstone](https://de.wikipedia.org/wiki/David_Livingstone)]{.footnote}
 
 [^0351]: [*Speke*: vergleiche [John Hanning Speke](https://de.wikipedia.org/wiki/John_Hanning_Speke)]{.footnote}

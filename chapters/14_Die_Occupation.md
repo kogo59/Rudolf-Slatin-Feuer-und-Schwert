@@ -419,11 +419,6 @@ dem Chalifa glücklich gelang, seine lange gehegten Pläne zu verwirklichen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0291]: [*Stanley*: vergleiche [Henry Morton Stanley](https://de.wikipedia.org/wiki/Henry_Morton_Stanley#Die_Emin-Pascha-Expedition)]{.footnote}
 

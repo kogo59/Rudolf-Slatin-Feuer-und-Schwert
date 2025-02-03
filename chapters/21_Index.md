@@ -2265,7 +2265,7 @@ Kaisers im Winter 1880/81 unternommen. Mit 20 Separatbildern und 1 Karte.
 **Schmidt, K. W.** Sansibar. Ein ostafrikanisches Culturbild. Mit 15 Abbildungen
 und einem Plan. 8. Geh. 4 M. 50 Pf. Geb. 5 M. 50 pf.
 
-**Schweinfurth, G.** Im Herzen voun Afrika, Reisen und Entdeckungen im
+**Schweinfurth, G.** Im Herzen von Afrika, Reisen und Entdeckungen im
 Centralen Aequatorial-Afrika während der Jahre 1868—71. Neue umgearbeitete
 Originalausgabe. Mit zahlreichen Abb. und 2 Karten. 8. Geh. 12 M. Geb. 14M.
 

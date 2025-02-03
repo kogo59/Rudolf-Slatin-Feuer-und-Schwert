@@ -995,10 +995,4 @@ auf der Expedition begleiten sollten, als Sammelplatz bezeichnet hatte.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0170]: [*Percussionsgewehr*: vergleiche [Perkussionsschloss](https://de.wikipedia.org/wiki/Perkussionsschloss)]{.footnote}

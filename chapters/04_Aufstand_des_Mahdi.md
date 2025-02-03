@@ -3,7 +3,7 @@
 ::: justified
 
 :::: { .fs-xxs  }
-Mohamed Achmed's Jugend. — Die religiösen Lerikas. — Mohamed Achmed's
+Mohamed Achmed's Jugend. — Die religiösen Terikas. — Mohamed Achmed's
 Streitigkeiten mit seinem religiösen Vorgesezten. — Sein Aufenthalt auf der Insel
 Abba. — Abdullahi el Taaschi. — Abdullahi’s erstes Auftreten, von ihm selbst
 erzählt, — Allgemeine Unzufriedenheit im Lande. — Der mislungene Versuch,
@@ -1068,10 +1068,6 @@ der auf Gebel Gedir gebliebenen Weiber und Kinder zurücklassend, die
 Berge und wandte sich gegen el Obeïd.
 
 :::
-
-:::: align-center
-****
-::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

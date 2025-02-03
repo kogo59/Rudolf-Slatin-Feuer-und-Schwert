@@ -1196,12 +1196,6 @@ aus vollstem Herzen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0340]: [*F. R. Wingate*: vergleiche [Francis Reginald Wingate](https://de.wikipedia.org/wiki/Reginald_Wingate)]{.footnote}
 
 [^0341]: [*Hunter Pascha*: vergleiche [Archibald Hunter](https://de.wikipedia.org/wiki/Archibald_Hunter)]{.footnote}

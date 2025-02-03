@@ -1466,11 +1466,6 @@ Commandanten Seid Bey Djuma als meinen Stellvertreter zurück.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0130]: [*Zibethkatze*: vergleiche [Zibetkatze](https://de.wikipedia.org/wiki/Afrikanische_Zibetkatze)]{.footnote}
 

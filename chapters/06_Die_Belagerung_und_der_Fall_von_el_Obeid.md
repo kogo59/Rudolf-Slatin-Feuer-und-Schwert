@@ -423,11 +423,6 @@ wie vor als sein einziges Ziel betrachte, in Gottes Bahnen zu wandeln.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0180]: [*Omderman*: vergleiche [Omdurman](https://de.wikipedia.org/wiki/Omdurman)]{.footnote}
 

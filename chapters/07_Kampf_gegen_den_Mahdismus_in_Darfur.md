@@ -1840,12 +1840,6 @@ und auch diese nur, weil sie bei der Nähe der Besatzung im Falle der
 Erhebung noch einer allzugroßen Gefahr ausgesetzt zu sein glaubten.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0190]: [*Gottfried Rott*: vergleiche [Gottfried Roth](https://de.wikipedia.org/wiki/Gottfried_Roth_(Afrikaforscher))]{.footnote}
 
 [^0191]: [*Anti-Sklaverei-Gesellschaft*: vergleiche [Anti-Slavery International](https://de.wikipedia.org/wiki/Anti-Slavery_International)]{.footnote}

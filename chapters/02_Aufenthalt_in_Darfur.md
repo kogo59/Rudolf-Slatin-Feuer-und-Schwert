@@ -3,7 +3,7 @@
 ::: justified
 
 :::: { .fs-xxs }
-Ankunft in Umuschanger. — Eine Heirathsgeschichte, — Ein sudanesischer Falstaff.
+Ankunft in Umuschanger. — Eine Heirathsgeschichte. — Ein sudanesischer Falstaff.
 — Beschreibung von el Fascher. — Aelteste Geschichte des Landes. — Die For
 und Tadjo. — Die Gründung der Tunscher - Dynastie. — Rückblick auf die
 Dynastien von Darfur. — Eroberung Darfurs durch Ziber Pascha. — Der
@@ -2362,12 +2362,6 @@ Abessinien, Febr Tabor.
 |                                                Gordon.
 
 :::
-
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0075]: [*Berti*: vergleiche [Berti](https://de.wikipedia.org/wiki/Berti_(Volk))]{.footnote}
 

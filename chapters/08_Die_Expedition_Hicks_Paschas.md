@@ -551,12 +551,6 @@ jetzt erst seines Erfolges völlig gewiß, streckte seine Hände nach dem
 Osten und dem Westen aus.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0200]: [*General Hicks*: vergleiche [William Hicks](https://de.wikipedia.org/wiki/William_Hicks)]{.footnote}
 
 [^0201]: [*Osman Digna*: vergleiche [Osman Digna](https://de.wikipedia.org/wiki/Osman_Digna)]{.footnote}

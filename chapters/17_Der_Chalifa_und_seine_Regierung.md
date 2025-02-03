@@ -1430,12 +1430,6 @@ noch der rächende Arm der Gerechtigkeit ereilen!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0321]: [*Gummi-arabicum*: vergleiche [Gummi arabicum](https://de.wikipedia.org/wiki/Gummi_arabicum)]{.footnote}
 
 [^0322]: [*Percail*: vergleiche [Perkal](https://de.wikipedia.org/wiki/Perkal)]{.footnote}

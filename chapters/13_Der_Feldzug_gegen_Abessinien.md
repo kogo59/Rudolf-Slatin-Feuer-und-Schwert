@@ -1116,11 +1116,6 @@ ist Fatma el Beda glückliche Familienmutter in Omderman.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0280]: [vergleiche [Schlacht von Gallabat](https://de.wikipedia.org/wiki/Schlacht_von_Gallabat)]{.footnote}
 
