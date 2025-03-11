@@ -1069,7 +1069,6 @@ Berge und wandte sich gegen el Obeïd.
 
 :::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0150]: [*Insel Abba*: vergleiche [Aba-Insel](https://de.wikipedia.org/wiki/Aba-Insel)]{.footnote}
 

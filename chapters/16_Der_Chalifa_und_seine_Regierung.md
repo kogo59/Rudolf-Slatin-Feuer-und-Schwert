@@ -831,7 +831,7 @@ Des Chalifa militärische Kräfte sind heute etwa folgende:
 :::: { .fs-xxs }
 
 |Stationen oder Plätze      | Emir                | Mannschaften                         |              |Feuerwaffen                 |             |           |
-|---------------------------|---------------------|--------------------------------------|--------------|----------------------------|-------------|-----------|
+|---------------------------|---------------------:|--------------------------------------:|--------------:|----------------------------:|-------------:|-----------:|
 |                           |                     |**Negertruppen und bewaffnete Araber**|**Kavallerie**|**Schwert und Lanzenreiter**|**Geschütze**|**Gewehre**|
 | Omderman                  |Jakub                |     4000                             |       3500   |  45000                     | 46          | 4000      |
 |                    "      |Mulazemie            |    11000                             |  —           |           —                |   —         |1100       |
